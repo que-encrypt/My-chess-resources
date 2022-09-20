@@ -1,0 +1,3 @@
+import chart,chess_graph
+chess_graph.graph("C:\\Users\\viksp\\Documents\\Chess\\.pgn\\NO_COMMENTS__chesscom-export-chessfanatic6.pgn", depth=10, shade = True, fragmentation_percentage=0.0032, should_defragment=False, custom_branching=False, should_download = True, download_format = 'html', download_name = 'chessfanatic6 games white',color="white",name="chessfanatic6")
+chess_graph.graph("C:\\Users\\viksp\\Documents\\Chess\\.pgn\\NO_COMMENTS__chesscom-export-chessfanatic6.pgn", depth=10, shade = True, fragmentation_percentage=0.0032, should_defragment=False, custom_branching=False, should_download = True, download_format = 'html', download_name = 'chessfanatic6 games black',color="black",name="chessfanatic6")
