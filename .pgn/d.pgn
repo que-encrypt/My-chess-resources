@@ -1,0 +1,43 @@
+[Event "Computer chess game"]
+[Site "DESKTOP-0RDP155"]
+[Date "2022.06.27"]
+[Round "?"]
+[White "Snowy_0_2_x64"]
+[Black "viksp"]
+[Result "*"]
+[BlackElo "2400"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Time "17:26:19"]
+[Variation "Pytel-Czech, 4.f4 Qa5"]
+[Termination "unterminated"]
+[PlyCount "53"]
+[WhiteType "program"]
+[BlackType "human"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd3 {(Bf1-d3 Nb8-a6 Ng1-f3 Na6-b4
+0-0 Nb4xd3 Qd1xd3 Bc8-e6) +0.57/8 4} Bg4 6. Nf3 {(Ng1-f3 Nb8-d7 h2-h3
+Bg4xf3 Qd1xf3 0-0-0 0-0 Rh8-g8) +0.61/8 4} e5 7. dxe5 {(d4xe5 d6xe5 f4xe5
+Nf6-d7 e5-e6 Bg4xe6 Rh1-f1 Bf8-b4 Bc1-d2) +0.91/9 4} dxe5 8. fxe5 {(f4xe5
+Nf6-d7 e5-e6 Bg4xe6 Nf3-g5 Bf8-b4 Ng5xe6 Bb4xc3+) +0.77/8 4} Nfd7 9. Bf4
+Bxf3 10. Qxf3 {(Qd1xf3 Nd7xe5 Bf4xe5 Qa5xe5 Bd3-c4 f7-f6 0-0-0 Bf8-b4)
++1.09/9 4} Nxe5 11. Bxe5 {(Bf4xe5 Qa5xe5 Rh1-f1 Qe5-e6 0-0-0 Bf8-b4 Qf3-f5
+0-0 Qf5xe6) +1.10/9 4} Qxe5 12. Bc4 {(Bd3-c4 f7-f6 0-0-0 Nb8-d7 Bc4-f7+
+Ke8-e7 Bf7-c4 Nd7-c5) +0.60/8 4} f6 13. O-O-O {(0-0-0 Nb8-d7 Bc4-f7+ Ke8-e7
+Qf3-f5 Ra8-d8 Bf7-c4 g7-g5) +0.58/8 4} Nd7 14. Bf7+ {(Bc4-f7+ Ke8-e7 Qf3-f5
+Ra8-d8 Bf7-c4 b7-b5 Bc4-d3) +0.58/7 4} Kxf7 15. Rxd7+ {(Rd1xd7+ Kf7-g8
+Rd7xb7 Bf8-c5 h2-h4 Ra8-d8 Rh1-e1 a7-a5) +0.87/8 4} Be7 16. Rxb7 {(Rd7xb7
+Rh8-b8 Rb7xb8 Ra8xb8 Qf3-f5 Kf7-g8 Qf5xe5 f6xe5) +0.95/8 4} Rhb8 17. Rxb8
+{(Rb7xb8 Ra8xb8 h2-h4 Be7-b4 Rh1-e1 Bb4xc3 Qf3xc3 Qe5xc3 b2xc3) +0.89/9 4}
+Rxb8 18. Qf5 {(Qf3-f5 Qe5-d4 Qf5-h3 Qd4-b4 b2-b3 Qb4-c5 Rh1-e1) +0.69/8 4}
+Qd4 19. Qh3 Qb4 20. b3 {(b2-b3 Qb4-c5 Rh1-d1 Kf7-g8 Qh3-e6+ Kg8-f8 Rd1-d7
+Rb8-e8 Rd7-d3) +0.84/9 4} Bc5 21. Rd1 {(Rh1-d1 Bc5-e7 Qh3-f3 Be7-d6 h2-h4
+Bd6-e5 Rd1-d7+) +1.01/8 4} Kg8 22. Qe6+ {(Qh3-e6+ Kg8-h8 Rd1-d3 Qb4-b6
+Kc1-b1 Qb6-c7 Rd3-d7 Qc7-c8) +1.27/8 4} Kh8 23. Kb2 {(Kc1-b2 Bc5-d4 Qe6xc6
+Bd4xc3+ Qc6xc3 Qb4xe4 Rd1-d2 Kh8-g8 Kb2-b1) +1.46/9 4} Bd4 24. Qxc6
+{(Qe6xc6 Bd4xc3+ Qc6xc3 Qb4xe4 Qc3-c7 Rb8-e8 Qc7xa7 Qe4xg2) +1.51/9 4} a5
+25. Rd3 {(Rd1-d3 Rb8-d8 Kb2-b1 Kh8-g8 g2-g4 Qb4-d6 Qc6-c4+) +2.14/9 5} a4
+26. a3 {(a2-a3 Bd4xc3+ Rd3xc3 Qb4-d4 b3-b4 Qd4-d2 g2-g3 Kh8-g8 Qc6xa4)
++2.67/9 4} Qb5 27. Qxb5 {(Qc6xb5 Rb8xb5 Rd3xd4 Rb5-b8 Nc3xa4 Kh8-g8 b3-b4
+h7-h6 Na4-c5 Rb8-c8 Kb2-b3) +7.63/11 2} *
+

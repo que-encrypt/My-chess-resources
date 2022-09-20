@@ -1,0 +1,995 @@
+[Event "Scotch Game Line 1"]
+[PlyCount "11"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Qe7 4.Nc3 {Move playrates: +24.62%	e5 +72.28%	Nc6 
++0.14%	Qe7 Line cumulative playrate: +0.03% Line winrate: +59.69% over 258 
+games} exd4 5.Nxd4 Nxd4 6.Qxd4 *
+
+
+[Event "Scotch Game Line 2"]
+[PlyCount "11"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Bb5 {Move playrates: +24.62%	e5 
++72.28%	Nc6 +92.90%	exd4 +51.09%	dxc3 Line cumulative playrate: +8.44% Line 
+winrate: +63.04% over 46 games} cxb2 6.Bxb2 *
+
+
+[Event "Scotch Game Line 3"]
+[PlyCount "9"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d3 5.Bf4 {Move playrates: +24.62%	e5 
++72.28%	Nc6 +92.90%	exd4 +10.40%	d3 Line cumulative playrate: +1.72% Line 
+winrate: +61.67% over 60 games} *
+
+
+[Event "Scotch Game Line 4"]
+[PlyCount "9"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d6 4.Bb5 (4.d5 Nce7 5.c4) Bg4 5.Nc3 {Move playrates: 
++24.62%	e5 +72.28%	Nc6 +2.78%	d6 +4.10%	Bg4 Line cumulative playrate: +0.02% 
+Line winrate: +63.62% over 1850 games} *
+
+
+[Event "Scotch Game Line 5"]
+[PlyCount "9"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Nxd4 4.Nxe5 (4.Nxd4) Bc5 5.Be3 {Move playrates: 
++24.62%	e5 +72.28%	Nc6 +0.59%	Nxd4 +19.74%	Bc5 Line cumulative playrate: +0.02%
+Line winrate: +77.42% over 31 games} *
+
+
+[Event "Scotch Game Line 6"]
+[PlyCount "9"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Bd6 4.c3 Nge7 5.Bc4 {Move playrates: +24.62%	e5 
++72.28%	Nc6 +0.50%	Bd6 +17.09%	Nge7 Line cumulative playrate: +0.02% Line 
+winrate: +60.53% over 76 games} *
+
+
+[Event "Scotch Game Line 7"]
+[PlyCount "9"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d5 4.Bb5 Bg4 5.dxe5 {Move playrates: +24.62%	e5 
++72.28%	Nc6 +0.48%	d5 +25.08%	Bg4 Line cumulative playrate: +0.02% Line winrate:
++61.36% over 44 games} *
+
+
+[Event "Scotch Game Line 8"]
+[PlyCount "9"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 f5 4.Nxe5 Nxe5 5.dxe5 {Move playrates: +24.62%	e5 
++72.28%	Nc6 +0.34%	f5 +23.40%	Nxe5 Line cumulative playrate: +0.01% Line 
+winrate: +62.48% over 701 games} *
+
+
+[Event "Scotch Game Line 9"]
+[PlyCount "9"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 f6 4.Bc4 exd4 5.Nh4 {Move playrates: +24.62%	e5 
++72.28%	Nc6 +0.23%	f6 +30.89%	exd4 Line cumulative playrate: +0.01% Line 
+winrate: +78.26% over 46 games} *
+
+
+[Event "Scotch Game Line 10"]
+[PlyCount "9"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 f6 4.Bc4 d6 5.Be3 {Move playrates: +24.62%	e5 +72.28%	Nc6
++0.23%	f6 +29.72%	d6 Line cumulative playrate: +0.01% Line winrate: +74.07% over
+27 games} *
+
+
+[Event "Scotch Game Line 11"]
+[PlyCount "9"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Qf6 4.Nc3 Bb4 5.Bd2 {Move playrates: +24.62%	e5 
++72.28%	Nc6 +0.22%	Qf6 +57.05%	Bb4 Line cumulative playrate: +0.02% Line 
+winrate: +65.96% over 47 games} *
+
+
+[Event "Scotch Game Line 12"]
+[PlyCount "9"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Bc5 4.dxc5 Nf6 5.Nc3 {Move playrates: +24.62%	e5 
++72.28%	Nc6 +0.18%	Bc5 +40.51%	Nf6 Line cumulative playrate: +0.01% Line 
+winrate: +78.84% over 794 games} *
+
+
+[Event "Scotch Game Line 13"]
+[PlyCount "9"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Bb4+ 4.c3 Bd6 5.Be3 {Move playrates: +24.62%	e5 
++72.28%	Nc6 +0.12%	Bb4+ +53.79%	Bd6 Line cumulative playrate: +0.01% Line 
+winrate: +75.00% over 24 games} *
+
+
+[Event "Scotch Game Line 14"]
+[PlyCount "11"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Ng4 6.Bf4 {Move playrates: +24.62%	e5
++72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +13.02%	Ng4 Line cumulative playrate: +0.17%
+Line winrate: +61.90% over 21 games} *
+
+
+[Event "Scotch Game Line 15"]
+[PlyCount "11"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 dxc3 6.exf6 {Move playrates: 
++24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +1.02%	dxc3 Line cumulative 
+playrate: +0.01% Line winrate: +67.90% over 324 games} *
+
+
+[Event "Scotch Game Line 16"]
+[PlyCount "11"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d6 5.Bb5 d3 6.O-O {Move playrates: +24.62%	e5 
++72.28%	Nc6 +92.90%	exd4 +4.60%	d6 +6.10%	d3 Line cumulative playrate: +0.05% 
+Line winrate: +52.38% over 21 games} *
+
+
+[Event "Scotch Game Line 17"]
+[PlyCount "11"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Qe7 5.Bd3 Nf6 6.O-O {Move playrates: +24.62%	e5
++72.28%	Nc6 +92.90%	exd4 +0.76%	Qe7 +14.34%	Nf6 Line cumulative playrate: +0.02%
+Line winrate: +65.35% over 101 games} *
+
+
+[Event "Scotch Game Line 18"]
+[PlyCount "11"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Qe7 5.Bd3 dxc3 6.Nxc3 {Move playrates: 
++24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +0.76%	Qe7 +13.13%	dxc3 Line cumulative 
+playrate: +0.02% Line winrate: +53.85% over 65 games} *
+
+
+[Event "Scotch Game Line 19"]
+[PlyCount "11"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Be7 5.Bc4 d3 6.Qb3 {Move playrates: +24.62%	e5
++72.28%	Nc6 +92.90%	exd4 +0.60%	Be7 +11.71%	d3 Line cumulative playrate: +0.01%
+Line winrate: +61.54% over 1287 games} *
+
+
+[Event "Scotch Game Line 20"]
+[PlyCount "11"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nge7 5.cxd4 Ng6 6.Bc4 {Move playrates: 
++24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +0.27%	Nge7 +25.23%	Ng6 Line cumulative 
+playrate: +0.01% Line winrate: +60.95% over 105 games} *
+
+
+[Event "Scotch Game Line 21"]
+[PlyCount "11"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 g6 5.Bc4 Bg7 6.O-O {Move playrates: +24.62%	e5
++72.28%	Nc6 +92.90%	exd4 +0.27%	g6 +39.84%	Bg7 Line cumulative playrate: +0.02%
+Line winrate: +53.58% over 377 games} *
+
+
+[Event "Scotch Game Line 22"]
+[PlyCount "11"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d6 4.Bb5 Bd7 5.Nc3 a6 6.Bxc6 {Move playrates: +24.62%	e5
++72.28%	Nc6 +2.78%	d6 +21.12%	Bd7 +10.61%	a6 Line cumulative playrate: +0.01% 
+Line winrate: +74.41% over 715 games} *
+
+
+[Event "Scotch Game Line 23"]
+[PlyCount "11"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Nf6 4.Bb5 exd4 5.O-O a6 6.Ba4 {Move playrates: +24.62%	e5
++72.28%	Nc6 +1.38%	Nf6 +58.76%	exd4 +14.11%	a6 Line cumulative playrate: +0.02%
+Line winrate: +53.96% over 10434 games} *
+
+
+[Event "Scotch Game Line 24"]
+[PlyCount "11"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Nxd4 4.Nxe5 Ne6 5.f4 d6 6.Nf3 {Move playrates: +24.62%	e5
++72.28%	Nc6 +0.59%	Nxd4 +41.26%	Ne6 +57.69%	d6 Line cumulative playrate: +0.02%
+Line winrate: +52.38% over 21 games} *
+
+
+[Event "Scotch Game Line 25"]
+[PlyCount "11"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Nxd4 4.Nxe5 Nc6 5.Nf3 Bc5 6.Bc4 {Move playrates: 
++24.62%	e5 +72.28%	Nc6 +0.59%	Nxd4 +28.36%	Nc6 +47.06%	Bc5 Line cumulative 
+playrate: +0.01% Line winrate: +57.14% over 28 games} *
+
+
+[Event "Scotch Game Line 26"]
+[PlyCount "11"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Bd6 4.c3 Nf6 5.Bc4 O-O 6.O-O {Move playrates: +24.62%	e5
++72.28%	Nc6 +0.50%	Bd6 +31.09%	Nf6 +62.42%	O-O Line cumulative playrate: +0.02%
+Line winrate: +57.73% over 97 games} *
+
+
+[Event "Scotch Game Line 27"]
+[PlyCount "11"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Bd6 4.c3 h6 5.Bd3 Nf6 6.O-O {Move playrates: +24.62%	e5 
++72.28%	Nc6 +0.50%	Bd6 +19.45%	h6 +65.00%	Nf6 Line cumulative playrate: +0.01% 
+Line winrate: +57.14% over 42 games} *
+
+
+[Event "Scotch Game Line 28"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Nd5 6.Bb5 d6 7.O-O {Move playrates: 
++24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +35.76%	Nd5 +13.49%	d6 Line 
+cumulative playrate: +0.06% Line winrate: +44.83% over 29 games} *
+
+
+[Event "Scotch Game Line 29"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Nd5 6.Bb5 Nb6 7.cxd4 {Move playrates:
++24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +35.76%	Nd5 +4.56%	Nb6 Line 
+cumulative playrate: +0.02% Line winrate: +53.57% over 28 games} *
+
+
+[Event "Scotch Game Line 30"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Ng8 6.cxd4 d5 7.h3 {Move playrates: 
++24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +3.65%	Ng8 +34.53%	d5 Line 
+cumulative playrate: +0.02% Line winrate: +71.79% over 39 games} *
+
+
+[Event "Scotch Game Line 31"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Ng8 6.cxd4 Bb4+ 7.Nc3 {Move playrates:
++24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +3.65%	Ng8 +22.34%	Bb4+ Line 
+cumulative playrate: +0.01% Line winrate: +66.17% over 201 games} *
+
+
+[Event "Scotch Game Line 32"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d6 5.Bb5 dxc3 6.O-O cxb2 7.Bxb2 {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +4.60%	d6 +47.24%	dxc3 
++27.16%	cxb2 Line cumulative playrate: +0.10% Line winrate: +38.46% over 26 
+games} *
+
+
+[Event "Scotch Game Line 33"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d6 5.Bb5 Bd7 6.cxd4 a6 7.Bd3 {Move playrates: 
++24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +4.60%	d6 +27.95%	Bd7 +31.31%	a6 Line 
+cumulative playrate: +0.07% Line winrate: +72.73% over 66 games} *
+
+
+[Event "Scotch Game Line 34"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d6 5.Bb5 Bg4 6.cxd4 a6 7.Bc4 {Move playrates: 
++24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +4.60%	d6 +3.35%	Bg4 +65.66%	a6 Line 
+cumulative playrate: +0.02% Line winrate: +70.37% over 27 games} *
+
+
+[Event "Scotch Game Line 35"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Bc5 5.cxd4 Bb4+ 6.Nc3 Bxc3+ 7.bxc3 {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +2.71%	Bc5 +54.27%	Bb4+ 
++9.22%	Bxc3+ Line cumulative playrate: +0.02% Line winrate: +64.08% over 813 
+games} *
+
+
+[Event "Scotch Game Line 36"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Be7 5.Bc4 Nf6 6.e5 Ne4 7.Bd5 {Move playrates: 
++24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +0.60%	Be7 +25.74%	Nf6 +44.01%	Ne4 Line 
+cumulative playrate: +0.01% Line winrate: +64.54% over 1444 games} *
+
+
+[Event "Scotch Game Line 37"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Be7 5.Bc4 Nf6 6.e5 Ng4 7.cxd4 {Move playrates:
++24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +0.60%	Be7 +25.74%	Nf6 +44.00%	Ng4 Line 
+cumulative playrate: +0.01% Line winrate: +60.69% over 4449 games} *
+
+
+[Event "Scotch Game Line 38"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nge7 5.cxd4 d5 6.Nc3 dxe4 7.Nxe4 {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +0.27%	Nge7 +57.41%	d5 
++66.67%	dxe4 Line cumulative playrate: +0.02% Line winrate: +48.15% over 27 
+games} *
+
+
+[Event "Scotch Game Line 39"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Qf6 5.Bc4 dxc3 6.Nxc3 Bb4 7.O-O {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +0.19%	Qf6 +46.94%	dxc3 
++73.08%	Bb4 Line cumulative playrate: +0.01% Line winrate: +65.78% over 675 
+games} *
+
+
+[Event "Scotch Game Line 40"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 h6 5.Bc4 dxc3 6.Qb3 Qe7 7.Nxc3 {Move playrates:
++24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +0.16%	h6 +54.10%	dxc3 +68.90%	Qe7 Line 
+cumulative playrate: +0.01% Line winrate: +68.26% over 523 games} *
+
+
+[Event "Scotch Game Line 41"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d6 4.Bb5 exd4 5.O-O Bd7 6.Re1 Ne5 7.Bxd7+ {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +2.78%	d6 +68.29%	exd4 +60.37%	Bd7 +18.87%	Ne5
+Line cumulative playrate: +0.04% Line winrate: +80.00% over 20 games} *
+
+
+[Event "Scotch Game Line 42"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d6 4.Bb5 exd4 5.O-O Bg4 6.c3 dxc3 7.Nxc3 {Move playrates:
++24.62%	e5 +72.28%	Nc6 +2.78%	d6 +68.29%	exd4 +12.28%	Bg4 +67.53%	dxc3 Line 
+cumulative playrate: +0.03% Line winrate: +60.38% over 53 games} *
+
+
+[Event "Scotch Game Line 43"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d6 4.Bb5 Bd7 5.Nc3 exd4 6.Nxd4 Nxd4 7.Qxd4 {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +2.78%	d6 +21.12%	Bd7 +45.32%	exd4 
++30.76%	Nxd4 Line cumulative playrate: +0.01% Line winrate: +65.32% over 3330 
+games} *
+
+
+[Event "Scotch Game Line 44"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d6 4.Bb5 Bd7 5.Nc3 Nf6 6.h3 exd4 7.Nxd4 {Move playrates:
++24.62%	e5 +72.28%	Nc6 +2.78%	d6 +21.12%	Bd7 +24.16%	Nf6 +60.95%	exd4 Line 
+cumulative playrate: +0.02% Line winrate: +51.32% over 380 games} *
+
+
+[Event "Scotch Game Line 45"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d6 4.Bb5 a6 5.Bxc6+ bxc6 6.dxe5 Bg4 7.Nc3 {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +2.78%	d6 +5.01%	a6 +100.00%	bxc6 +62.09%	Bg4
+Line cumulative playrate: +0.02% Line winrate: +72.12% over 642 games} *
+
+
+[Event "Scotch Game Line 46"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Nf6 4.Bb5 exd4 5.O-O Be7 6.e5 Ne4 7.Re1 {Move playrates:
++24.62%	e5 +72.28%	Nc6 +1.38%	Nf6 +58.76%	exd4 +19.03%	Be7 +39.05%	Ne4 Line 
+cumulative playrate: +0.01% Line winrate: +51.74% over 288 games} *
+
+
+[Event "Scotch Game Line 47"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Nf6 4.Bb5 Nxe4 5.Qe2 d5 6.Nxe5 Bd7 7.Nxd7 {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +1.38%	Nf6 +18.91%	Nxe4 +34.12%	d5 +75.29%	Bd7
+Line cumulative playrate: +0.01% Line winrate: +81.82% over 44 games} *
+
+
+[Event "Scotch Game Line 48"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d5 4.Bb5 dxe4 5.Nxe5 Bd7 6.Bxc6 bxc6 7.O-O {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +0.48%	d5 +44.11%	dxe4 +80.95%	Bd7 
++42.71%	bxc6 Line cumulative playrate: +0.01% Line winrate: +86.36% over 22 
+games} *
+
+
+[Event "Scotch Game Line 49"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 f5 4.Nxe5 Nf6 5.Bc4 Nxe5 6.dxe5 Nxe4 7.O-O {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +0.34%	f5 +37.52%	Nf6 +47.90%	Nxe5 
++96.49%	Nxe4 Line cumulative playrate: +0.01% Line winrate: +59.02% over 61 
+games} *
+
+
+[Event "Scotch Game Line 50"]
+[PlyCount "13"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 f5 4.Nxe5 fxe4 5.Nc3 Nf6 6.Bc4 d5 7.Nxd5 {Move playrates:
++24.62%	e5 +72.28%	Nc6 +0.34%	f5 +22.93%	fxe4 +82.71%	Nf6 +92.17%	d5 Line 
+cumulative playrate: +0.01% Line winrate: +72.87% over 129 games} *
+
+
+[Event "Scotch Game Line 51"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d5 5.Qb3 dxe4 6.Bc4 exf3 7.Bxf7+ Ke7 8.Bxg8 
+{Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +21.06%	d5 +81.54%	dxe4 
++29.47%	exf3 +92.59%	Ke7 Line cumulative playrate: +0.77% Line winrate: +83.33%
+over 24 games} *
+
+
+[Event "Scotch Game Line 52"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d5 5.Qb3 dxe4 6.Bc4 Qe7 7.Ng5 Nh6 8.O-O {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +21.06%	d5 +81.54%	dxe4 
++29.47%	Qe7 +86.36%	Nh6 Line cumulative playrate: +0.72% Line winrate: +54.17% 
+over 24 games} *
+
+
+[Event "Scotch Game Line 53"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Nd5 6.Bb5 a6 7.Ba4 Nb6 8.Bb3 {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +35.76%	Nd5 +39.88%	a6
++56.62%	Nb6 Line cumulative playrate: +0.10% Line winrate: +61.02% over 59 
+games} *
+
+
+[Event "Scotch Game Line 54"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Nd5 6.Bb5 a6 7.Ba4 Be7 8.cxd4 {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +35.76%	Nd5 +39.88%	a6
++9.19%	Be7 Line cumulative playrate: +0.02% Line winrate: +37.04% over 27 games} *
+
+
+[Event "Scotch Game Line 55"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Nd5 6.Bb5 a6 7.Ba4 Bc5 8.O-O {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +35.76%	Nd5 +39.88%	a6
++8.46%	Bc5 Line cumulative playrate: +0.02% Line winrate: +65.44% over 489 
+games} *
+
+
+[Event "Scotch Game Line 56"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Nd5 6.Bb5 Bc5 7.O-O a6 8.Ba4 {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +35.76%	Nd5 
++14.48%	Bc5 +18.51%	a6 Line cumulative playrate: +0.01% Line winrate: +65.44% 
+over 489 games} *
+
+
+[Event "Scotch Game Line 57"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Nd5 6.Bb5 dxc3 7.Qxd5 cxb2 8.Bxb2 
+{Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +35.76%	Nd5 
++7.14%	dxc3 +58.33%	cxb2 Line cumulative playrate: +0.02% Line winrate: +75.00%
+over 20 games} *
+
+
+[Event "Scotch Game Line 58"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Ne4 6.Qe2 Nc5 7.cxd4 Na4 8.d5 {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +32.86%	Ne4 
++47.45%	Nc5 +6.19%	Na4 Line cumulative playrate: +0.01% Line winrate: +64.58% 
+over 48 games} *
+
+
+[Event "Scotch Game Line 59"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Ne4 6.Qe2 d5 7.exd6 Bxd6 8.Qxe4+ {Move
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +32.86%	Ne4 +38.84%	d5
++6.28%	Bxd6 Line cumulative playrate: +0.01% Line winrate: +82.76% over 58 
+games} *
+
+
+[Event "Scotch Game Line 60"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d6 5.Bb5 dxc3 6.O-O Bd7 7.Nxc3 a6 8.Ba4 {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +4.60%	d6 +47.24%	dxc3 
++32.10%	Bd7 +10.05%	a6 Line cumulative playrate: +0.01% Line winrate: +62.50% 
+over 40 games} *
+
+
+[Event "Scotch Game Line 61"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d6 5.Bb5 dxc3 6.O-O Nf6 7.Nxc3 Be7 8.e5 {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +4.60%	d6 +47.24%	dxc3 
++24.69%	Nf6 +76.42%	Be7 Line cumulative playrate: +0.07% Line winrate: +50.00% 
+over 28 games} *
+
+
+[Event "Scotch Game Line 62"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d6 5.Bb5 Bd7 6.cxd4 Nf6 7.Nc3 a6 8.Bd3 {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +4.60%	d6 +27.95%	Bd7 +34.57%	Nf6
++13.68%	a6 Line cumulative playrate: +0.01% Line winrate: +80.33% over 61 games} *
+
+
+[Event "Scotch Game Line 63"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d6 5.Bb5 Be7 6.cxd4 Bd7 7.h3 Nf6 8.Nc3 {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +4.60%	d6 +2.76%	Be7 +83.80%	Bd7
++66.38%	Nf6 Line cumulative playrate: +0.01% Line winrate: +63.08% over 260 
+games} *
+
+
+[Event "Scotch Game Line 64"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Bc5 5.cxd4 Bb4+ 6.Nc3 d5 7.Bb5 dxe4 8.Ne5 {Move
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +2.71%	Bc5 +54.27%	Bb4+ 
++23.16%	d5 +51.52%	dxe4 Line cumulative playrate: +0.03% Line winrate: +54.84% 
+over 31 games} *
+
+
+[Event "Scotch Game Line 65"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Bc5 5.cxd4 Bb4+ 6.Nc3 d5 7.Bb5 Ne7 8.O-O {Move
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +2.71%	Bc5 +54.27%	Bb4+ 
++23.16%	d5 +24.24%	Ne7 Line cumulative playrate: +0.01% Line winrate: +50.74% 
+over 136 games} *
+
+
+[Event "Scotch Game Line 66"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Bc5 5.cxd4 Bb4+ 6.Nc3 Nge7 7.d5 Nb8 8.a3 {Move
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +2.71%	Bc5 +54.27%	Bb4+ 
++7.51%	Nge7 +78.89%	Nb8 Line cumulative playrate: +0.01% Line winrate: +72.41% 
+over 29 games} *
+
+
+[Event "Scotch Game Line 67"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Qe7 5.Bd3 d5 6.O-O dxe4 7.Bxe4 Be6 8.cxd4 {Move
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +0.76%	Qe7 +59.68%	d5 
++85.45%	dxe4 +29.87%	Be6 Line cumulative playrate: +0.02% Line winrate: +64.00%
+over 25 games} *
+
+
+[Event "Scotch Game Line 68"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Be7 5.Bc4 d6 6.Qb3 Na5 7.Bxf7+ Kf8 8.Qa3 {Move
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +0.60%	Be7 +31.66%	d6 +48.29%	Na5
++100.00%	Kf8 Line cumulative playrate: +0.02% Line winrate: +72.97% over 37 
+games} *
+
+
+[Event "Scotch Game Line 69"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 g6 5.Bc4 d3 6.O-O Bg7 7.Qb3 Qe7 8.Bg5 {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +0.27%	g6 +34.51%	d3 +93.85%	Bg7
++95.92%	Qe7 Line cumulative playrate: +0.01% Line winrate: +51.28% over 39 
+games} *
+
+
+[Event "Scotch Game Line 70"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d6 4.Bb5 exd4 5.O-O Be7 6.Bxc6+ bxc6 7.Qxd4 Nf6 8.c4 
+{Move playrates: +24.62%	e5 +72.28%	Nc6 +2.78%	d6 +68.29%	exd4 +5.21%	Be7 
++93.94%	bxc6 +70.33%	Nf6 Line cumulative playrate: +0.01% Line winrate: +56.14%
+over 57 games} *
+
+
+[Event "Scotch Game Line 71"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d6 4.Bb5 Bd7 5.Nc3 exd4 6.Nxd4 Nf6 7.Nb3 Be7 8.O-O {Move
+playrates: +24.62%	e5 +72.28%	Nc6 +2.78%	d6 +21.12%	Bd7 +45.32%	exd4 +38.09%	Nf6
++82.76%	Be7 Line cumulative playrate: +0.01% Line winrate: +59.18% over 49 
+games} *
+
+
+[Event "Scotch Game Line 72"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Nf6 4.Bb5 exd4 5.O-O Bc5 6.e5 Nd5 7.c3 O-O 8.cxd4 {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +1.38%	Nf6 +58.76%	exd4 +21.31%	Bc5 
++68.35%	Nd5 +63.41%	O-O Line cumulative playrate: +0.01% Line winrate: +61.56% 
+over 874 games} *
+
+
+[Event "Scotch Game Line 73"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Nf6 4.Bb5 exd4 5.O-O Be7 6.e5 Nd5 7.c4 Nb6 8.Nxd4 {Move 
+playrates: +24.62%	e5 +72.28%	Nc6 +1.38%	Nf6 +58.76%	exd4 +19.03%	Be7 
++48.71%	Nd5 +90.54%	Nb6 Line cumulative playrate: +0.01% Line winrate: +62.50% 
+over 32 games} *
+
+
+[Event "Scotch Game Line 74"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Nf6 4.Bb5 Nxd4 5.Nxd4 exd4 6.e5 Nd5 7.Qxd4 c6 8.Bd3 {Move
+playrates: +24.62%	e5 +72.28%	Nc6 +1.38%	Nf6 +16.38%	Nxd4 +87.99%	exd4 
++40.59%	Nd5 +91.36%	c6 Line cumulative playrate: +0.01% Line winrate: +57.58% 
+over 33 games} *
+
+
+[Event "Scotch Game Line 75"]
+[PlyCount "15"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d5 4.Bb5 dxe4 5.Nxe5 Bd7 6.Bxc6 Bxc6 7.Nxc6 bxc6 8.O-O 
+{Move playrates: +24.62%	e5 +72.28%	Nc6 +0.48%	d5 +44.11%	dxe4 +80.95%	Bd7 
++57.29%	Bxc6 +100.00%	bxc6 Line cumulative playrate: +0.02% Line winrate: 
++51.72% over 29 games} *
+
+
+[Event "Scotch Game Line 76"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Nd5 6.Bb5 a6 7.Ba4 b5 8.Bb3 Nb6 9.cxd4
+{Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +35.76%	Nd5 
++39.88%	a6 +18.75%	b5 +83.33%	Nb6 Line cumulative playrate: +0.03% Line winrate:
++58.06% over 31 games} *
+
+
+[Event "Scotch Game Line 77"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Nd5 6.Bb5 Be7 7.O-O O-O 8.cxd4 d6 
+9.exd6 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 
++35.76%	Nd5 +16.67%	Be7 +72.41%	O-O +69.03%	d6 Line cumulative playrate: +0.04%
+Line winrate: +52.38% over 21 games} *
+
+
+[Event "Scotch Game Line 78"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Ne4 6.Qe2 d5 7.exd6 f5 8.Nxd4 Bxd6 
+9.f3 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +32.86%	Ne4
++38.84%	d5 +49.86%	f5 +14.23%	Bxd6 Line cumulative playrate: +0.01% Line 
+winrate: +58.33% over 24 games} *
+
+
+[Event "Scotch Game Line 79"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Qe7 6.cxd4 d6 7.Bb5 dxe5 8.O-O e4 
+9.Ne5 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 
++12.19%	Qe7 +73.77%	d6 +48.92%	dxe5 +63.10%	e4 Line cumulative playrate: +0.04%
+Line winrate: +65.00% over 20 games} *
+
+
+[Event "Scotch Game Line 80"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Qe7 6.cxd4 d6 7.Bb5 dxe5 8.O-O Bd7 
+9.dxe5 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 
++12.19%	Qe7 +73.77%	d6 +48.92%	dxe5 +19.05%	Bd7 Line cumulative playrate: +0.01%
+Line winrate: +61.33% over 375 games} *
+
+
+[Event "Scotch Game Line 81"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Qe7 6.cxd4 Nd5 7.Nc3 Nxc3 8.bxc3 d6 
+9.Bb5 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 
++12.19%	Qe7 +16.93%	Nd5 +72.56%	Nxc3 +68.50%	d6 Line cumulative playrate: +0.01%
+Line winrate: +65.62% over 64 games} *
+
+
+[Event "Scotch Game Line 82"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Ng8 6.cxd4 d6 7.Bb5 Bd7 8.Bxc6 Bxc6 
+9.d5 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +3.65%	Ng8
++38.11%	d6 +64.13%	Bd7 +89.58%	Bxc6 Line cumulative playrate: +0.01% Line 
+winrate: +82.76% over 29 games} *
+
+
+[Event "Scotch Game Line 83"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d6 5.Bb5 dxc3 6.O-O Bd7 7.Nxc3 Nf6 8.Bg5 Be7 
+9.Re1 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +4.60%	d6 
++47.24%	dxc3 +32.10%	Bd7 +49.21%	Nf6 +97.00%	Be7 Line cumulative playrate: 
++0.06% Line winrate: +43.75% over 80 games} *
+
+
+[Event "Scotch Game Line 84"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d6 5.Bb5 dxc3 6.O-O Bd7 7.Nxc3 Be7 8.Re1 Nf6 
+9.e5 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +4.60%	d6 +47.24%	dxc3
++32.10%	Bd7 +26.46%	Be7 +79.07%	Nf6 Line cumulative playrate: +0.02% Line 
+winrate: +60.00% over 20 games} *
+
+
+[Event "Scotch Game Line 85"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d6 5.Bb5 dxc3 6.O-O Nf6 7.Nxc3 Bd7 8.Bg5 Be7 
+9.Re1 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +4.60%	d6 
++47.24%	dxc3 +24.69%	Nf6 +21.70%	Bd7 +97.00%	Be7 Line cumulative playrate: 
++0.02% Line winrate: +43.75% over 80 games} *
+
+
+[Event "Scotch Game Line 86"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Bc5 5.cxd4 Bb4+ 6.Nc3 Nf6 7.Bg5 h6 8.Bxf6 Qxf6
+9.e5 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +2.71%	Bc5 
++54.27%	Bb4+ +29.64%	Nf6 +71.01%	h6 +94.92%	Qxf6 Line cumulative playrate: 
++0.05% Line winrate: +81.25% over 32 games} *
+
+
+[Event "Scotch Game Line 87"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Bc5 5.cxd4 Bb6 6.h3 d6 7.Nc3 Nge7 8.Bb5 O-O 
+9.O-O {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +2.71%	Bc5 
++44.80%	Bb6 +66.07%	d6 +27.80%	Nge7 +61.11%	O-O Line cumulative playrate: +0.02%
+Line winrate: +47.35% over 1943 games} *
+
+
+[Event "Scotch Game Line 88"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Bc5 5.cxd4 Bb6 6.h3 d6 7.Nc3 Nge7 8.Bb5 Bd7 
+9.O-O {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +2.71%	Bc5 
++44.80%	Bb6 +66.07%	d6 +27.80%	Nge7 +33.33%	Bd7 Line cumulative playrate: +0.01%
+Line winrate: +54.14% over 931 games} *
+
+
+[Event "Scotch Game Line 89"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Be7 5.Bc4 dxc3 6.Qd5 Nh6 7.Bxh6 O-O 8.Nxc3 gxh6
+9.Qh5 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +0.60%	Be7 
++22.43%	dxc3 +81.97%	Nh6 +90.69%	O-O +85.46%	gxh6 Line cumulative playrate: 
++0.01% Line winrate: +65.99% over 347 games} *
+
+
+[Event "Scotch Game Line 90"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d6 4.Bb5 exd4 5.O-O Bd7 6.Re1 Be7 7.Bxc6 Bxc6 8.Nxd4 Nf6
+9.Nf5 {Move playrates: +24.62%	e5 +72.28%	Nc6 +2.78%	d6 +68.29%	exd4 +60.37%	Bd7
++35.22%	Be7 +66.67%	Bxc6 +28.26%	Nf6 Line cumulative playrate: +0.01% Line 
+winrate: +70.83% over 24 games} *
+
+
+[Event "Scotch Game Line 91"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d6 4.Bb5 exd4 5.O-O Bd7 6.Re1 Nf6 7.Bxc6 Bxc6 8.Nxd4 Be7
+9.Nf5 {Move playrates: +24.62%	e5 +72.28%	Nc6 +2.78%	d6 +68.29%	exd4 +60.37%	Bd7
++22.01%	Nf6 +80.58%	Bxc6 +78.38%	Be7 Line cumulative playrate: +0.03% Line 
+winrate: +70.83% over 24 games} *
+
+
+[Event "Scotch Game Line 92"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d6 4.Bb5 exd4 5.O-O Nf6 6.Qxd4 Be7 7.Nc3 O-O 8.Bxc6 bxc6
+9.b3 {Move playrates: +24.62%	e5 +72.28%	Nc6 +2.78%	d6 +68.29%	exd4 +16.47%	Nf6
++22.60%	Be7 +81.27%	O-O +100.00%	bxc6 Line cumulative playrate: +0.01% Line 
+winrate: +61.76% over 34 games} *
+
+
+[Event "Scotch Game Line 93"]
+[PlyCount "17"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Nf6 4.Bb5 exd4 5.O-O Nxe4 6.Qe2 d5 7.Nxd4 Bd7 8.Bxc6 bxc6
+9.f3 {Move playrates: +24.62%	e5 +72.28%	Nc6 +1.38%	Nf6 +58.76%	exd4 
++25.21%	Nxe4 +76.27%	d5 +67.50%	Bd7 +92.31%	bxc6 Line cumulative playrate: 
++0.02% Line winrate: +77.27% over 22 games} *
+
+
+[Event "Scotch Game Line 94"]
+[PlyCount "19"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Nd5 6.Bb5 Bc5 7.O-O O-O 8.cxd4 Bb6 
+9.Bg5 f6 10.exf6 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6
++35.76%	Nd5 +14.48%	Bc5 +63.41%	O-O +74.37%	Bb6 +31.97%	f6 Line cumulative 
+playrate: +0.01% Line winrate: +71.43% over 42 games} *
+
+
+[Event "Scotch Game Line 95"]
+[PlyCount "19"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Ne4 6.Qe2 Nc5 7.cxd4 Na6 8.Qe4 Bb4+ 
+9.Nc3 O-O 10.Bd3 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6
++32.86%	Ne4 +47.45%	Nc5 +51.76%	Na6 +65.96%	Bb4+ +67.24%	O-O Line cumulative 
+playrate: +0.05% Line winrate: +81.82% over 33 games} *
+
+
+[Event "Scotch Game Line 96"]
+[PlyCount "19"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Ne4 6.Qe2 d5 7.exd6 f5 8.Nxd4 Nxd4 
+9.cxd4 Kf7 10.dxc7 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 
++7.75%	Nf6 +32.86%	Ne4 +38.84%	d5 +49.86%	f5 +84.64%	Nxd4 +25.66%	Kf7 Line 
+cumulative playrate: +0.02% Line winrate: +55.00% over 20 games} *
+
+
+[Event "Scotch Game Line 97"]
+[PlyCount "19"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Ne4 6.Qe2 f5 7.exf6 d5 8.Nbd2 Qxf6 
+9.Nxe4 dxe4 10.Qxe4+ {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 
++7.75%	Nf6 +32.86%	Ne4 +9.91%	f5 +98.49%	d5 +49.38%	Qxf6 +100.00%	dxe4 Line 
+cumulative playrate: +0.02% Line winrate: +41.46% over 41 games} *
+
+
+[Event "Scotch Game Line 98"]
+[PlyCount "19"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Qe7 6.cxd4 d6 7.Bb5 Bd7 8.O-O dxe5 
+9.dxe5 Ng4 10.Bg5 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 
++7.75%	Nf6 +12.19%	Qe7 +73.77%	d6 +37.25%	Bd7 +81.21%	dxe5 +49.87%	Ng4 Line 
+cumulative playrate: +0.02% Line winrate: +72.00% over 75 games} *
+
+
+[Event "Scotch Game Line 99"]
+[PlyCount "19"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d6 5.Bb5 Bd7 6.cxd4 Nf6 7.Nc3 Be7 8.e5 dxe5 
+9.dxe5 Ng4 10.Qe2 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +4.60%	d6
++27.95%	Bd7 +34.57%	Nf6 +80.34%	Be7 +89.87%	dxe5 +78.68%	Ng4 Line cumulative 
+playrate: +0.04% Line winrate: +79.17% over 48 games} *
+
+
+[Event "Scotch Game Line 100"]
+[PlyCount "19"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d6 5.Bb5 Bd7 6.cxd4 Be7 7.h3 Nf6 8.Nc3 O-O 
+9.O-O a6 10.Bd3 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +4.60%	d6 
++27.95%	Bd7 +16.99%	Be7 +66.38%	Nf6 +81.15%	O-O +60.90%	a6 Line cumulative 
+playrate: +0.01% Line winrate: +67.14% over 353 games} *
+
+
+[Event "Scotch Game Line 101"]
+[PlyCount "19"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d6 5.Bb5 Nf6 6.cxd4 Bd7 7.Nc3 Be7 8.e5 dxe5 
+9.dxe5 Ng4 10.Qe2 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +4.60%	d6
++6.89%	Nf6 +75.51%	Bd7 +80.34%	Be7 +89.87%	dxe5 +78.68%	Ng4 Line cumulative 
+playrate: +0.02% Line winrate: +79.17% over 48 games} *
+
+
+[Event "Scotch Game Line 102"]
+[PlyCount "19"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Bc5 5.cxd4 Bb4+ 6.Nc3 d6 7.d5 Ne5 8.Qa4+ Bd7 
+9.Qxb4 Nxf3+ 10.gxf3 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 
++2.71%	Bc5 +54.27%	Bb4+ +24.03%	d6 +55.09%	Ne5 +76.47%	Bd7 +82.14%	Nxf3+ Line 
+cumulative playrate: +0.02% Line winrate: +79.13% over 115 games} *
+
+
+[Event "Scotch Game Line 103"]
+[PlyCount "19"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Bc5 5.cxd4 Bb4+ 6.Nc3 d6 7.d5 Bxc3+ 8.bxc3 Ne5
+9.Nxe5 dxe5 10.Be2 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 
++2.71%	Bc5 +54.27%	Bb4+ +24.03%	d6 +30.94%	Bxc3+ +61.17%	Ne5 +100.00%	dxe5 Line
+cumulative playrate: +0.01% Line winrate: +70.37% over 27 games} *
+
+
+[Event "Scotch Game Line 104"]
+[PlyCount "19"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Bc5 5.cxd4 Bb6 6.h3 d6 7.Nc3 Nf6 8.Bb5 Bd7 
+9.O-O O-O 10.Re1 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +2.71%	Bc5
++44.80%	Bb6 +66.07%	d6 +31.40%	Nf6 +41.86%	Bd7 +65.38%	O-O Line cumulative 
+playrate: +0.01% Line winrate: +61.34% over 582 games} *
+
+
+[Event "Scotch Game Line 105"]
+[PlyCount "19"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Bc5 5.cxd4 Bb6 6.h3 d6 7.Nc3 h6 8.Be3 Nf6 9.Bd3
+O-O 10.O-O {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +2.71%	Bc5 
++44.80%	Bb6 +66.07%	d6 +25.35%	h6 +44.44%	Nf6 +71.79%	O-O Line cumulative 
+playrate: +0.01% Line winrate: +63.38% over 71 games} *
+
+
+[Event "Scotch Game Line 106"]
+[PlyCount "19"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Qe7 5.Bd3 d5 6.O-O dxe4 7.Bxe4 Nf6 8.Bxc6+ bxc6
+9.Re1 Be6 10.Nxd4 {Move playrates: +24.62%	e5 +72.28%	Nc6 +92.90%	exd4 
++0.76%	Qe7 +59.68%	d5 +85.45%	dxe4 +30.82%	Nf6 +100.00%	bxc6 +100.00%	Be6 Line 
+cumulative playrate: +0.02% Line winrate: +58.82% over 51 games} *
+
+
+[Event "Scotch Game Line 107"]
+[PlyCount "19"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Nf6 4.Bb5 exd4 5.O-O d6 6.Qxd4 Bd7 7.Bxc6 Bxc6 8.Re1 Be7
+9.e5 dxe5 10.Qxe5 {Move playrates: +24.62%	e5 +72.28%	Nc6 +1.38%	Nf6 
++58.76%	exd4 +18.63%	d6 +74.90%	Bd7 +84.39%	Bxc6 +96.32%	Be7 +90.91%	dxe5 Line 
+cumulative playrate: +0.01% Line winrate: +65.83% over 556 games} *
+
+
+[Event "Scotch Game Line 108"]
+[PlyCount "19"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 Nf6 4.Bb5 Nxe4 5.Qe2 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.O-O Nd4
+9.Qe4 Nxf3+ 10.Qxf3 {Move playrates: +24.62%	e5 +72.28%	Nc6 +1.38%	Nf6 
++18.91%	Nxe4 +59.22%	Nd6 +96.52%	dxc6 +98.82%	Nf5 +53.78%	Nd4 +83.33%	Nxf3+ Line
+cumulative playrate: +0.01% Line winrate: +54.76% over 42 games} *
+
+
+[Event "Scotch Game Line 109"]
+[PlyCount "21"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Nd5 6.Bb5 Bc5 7.O-O O-O 8.cxd4 Bb6 
+9.Bg5 Qe8 10.Nc3 Nxc3 11.bxc3 {Move playrates: +24.62%	e5 +72.28%	Nc6 
++92.90%	exd4 +7.75%	Nf6 +35.76%	Nd5 +14.48%	Bc5 +63.41%	O-O +74.37%	Bb6 
++43.87%	Qe8 +79.03%	Nxc3 Line cumulative playrate: +0.01% Line winrate: +76.92%
+over 52 games} *
+
+
+[Event "Scotch Game Line 110"]
+[PlyCount "21"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Ne4 6.Qe2 d5 7.exd6 Bf5 8.Nbd2 Bxd6 
+9.Nxe4 O-O 10.Nxd6 Qxd6 11.Nxd4 {Move playrates: +24.62%	e5 +72.28%	Nc6 
++92.90%	exd4 +7.75%	Nf6 +32.86%	Ne4 +38.84%	d5 +41.16%	Bf5 +38.24%	Bxd6 
++96.92%	O-O +92.86%	Qxd6 Line cumulative playrate: +0.02% Line winrate: +95.65%
+over 23 games} *
+
+
+[Event "Scotch Game Line 111"]
+[PlyCount "23"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Ne4 6.Qe2 d5 7.exd6 Bf5 8.Nbd2 d3 
+9.Qe3 Bxd6 10.Nxe4 O-O 11.Bxd3 Re8 12.O-O {Move playrates: +24.62%	e5 
++72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +32.86%	Ne4 +38.84%	d5 +41.16%	Bf5 
++52.94%	d3 +84.15%	Bxd6 +95.24%	O-O +63.83%	Re8 Line cumulative playrate: +0.02%
+Line winrate: +89.66% over 29 games} *
+
+
+[Event "Scotch Game Line 112"]
+[PlyCount "25"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Ne4 6.Qe2 Nc5 7.cxd4 Ne6 8.d5 Ncd4 
+9.Nxd4 Nxd4 10.Qe4 c5 11.d6 g6 12.Nc3 Bg7 13.Nd5 {Move playrates: +24.62%	e5 
++72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +32.86%	Ne4 +47.45%	Nc5 +41.90%	Ne6 
++45.91%	Ncd4 +100.00%	Nxd4 +69.86%	c5 +59.80%	g6 +100.00%	Bg7 Line cumulative 
+playrate: +0.02% Line winrate: +54.55% over 22 games} *
+
+
+[Event "Scotch Game Line 113"]
+[PlyCount "25"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Ne4 6.Qe2 Nc5 7.cxd4 Ne6 8.d5 Ned4 
+9.Nxd4 Nxd4 10.Qe4 c5 11.d6 g6 12.Nc3 Bg7 13.Nd5 {Move playrates: +24.62%	e5 
++72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +32.86%	Ne4 +47.45%	Nc5 +41.90%	Ne6 
++45.49%	Ned4 +100.00%	Nxd4 +69.86%	c5 +59.80%	g6 +100.00%	Bg7 Line cumulative 
+playrate: +0.02% Line winrate: +54.55% over 22 games} *
+
+
+[Event "Scotch Game Line 114"]
+[PlyCount "25"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 Nf6 5.e5 Ne4 6.Qe2 d5 7.exd6 f5 8.Nxd4 Nxd4 
+9.cxd4 Bxd6 10.f3 Qh4+ 11.g3 Bxg3+ 12.hxg3 Qxh1 13.fxe4 {Move playrates: 
++24.62%	e5 +72.28%	Nc6 +92.90%	exd4 +7.75%	Nf6 +32.86%	Ne4 +38.84%	d5 +49.86%	f5
++84.64%	Nxd4 +70.35%	Bxd6 +79.22%	Qh4+ +100.00%	Bxg3+ +94.81%	Qxh1 Line 
+cumulative playrate: +0.04% Line winrate: +77.97% over 59 games} *
+
+
+[Event "Scotch Game Line 115"]
+[PlyCount "25"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 d6 4.Bb5 exd4 5.O-O Nf6 6.Qxd4 Bd7 7.Bxc6 Bxc6 8.Re1 Be7
+9.e5 dxe5 10.Qxe5 Bxf3 11.gxf3 Qd6 12.Qxd6 cxd6 13.Nc3 {Move playrates: 
++24.62%	e5 +72.28%	Nc6 +2.78%	d6 +68.29%	exd4 +16.47%	Nf6 +74.90%	Bd7 
++84.39%	Bxc6 +96.32%	Be7 +90.91%	dxe5 +58.45%	Bxf3 +67.67%	Qd6 +100.00%	cxd6 
+Line cumulative playrate: +0.01% Line winrate: +86.67% over 60 games} *

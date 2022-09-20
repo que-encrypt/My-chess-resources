@@ -1,0 +1,20 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/HTdBBwS0"]
+[Date "2022.07.12"]
+[White "Anonymous"]
+[Black "Anonymous"]
+[Result "1/2-1/2"]
+[UTCDate "2022.07.12"]
+[UTCTime "19:26:13"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:15:00] } 1... e6 { [%clk 0:15:00] } 2. d4 { [%clk 0:15:00] } { C00 French Defense: Normal Variation } 2... Ke7 { [%clk 0:14:59] } 3. c4 { [%clk 0:15:08] } 3... Nc6 { [%clk 0:14:34] } 4. f4 { [%clk 0:15:12] } 4... d5 { [%clk 0:14:35] } 5. cxd5 { [%clk 0:15:17] } 5... exd5 { [%clk 0:14:33] } 6. Nc3 { [%clk 0:15:19] } 6... Nf6 { [%clk 0:14:33] } 7. e5 { [%clk 0:15:23] } 7... Ne4 { [%clk 0:14:33] } 8. Bd3 { [%clk 0:15:28] } 8... Nxd4 { [%clk 0:14:24] } 9. Nxe4 { [%clk 0:15:31] } 9... dxe4 { [%clk 0:14:23] } 10. Bxe4 { [%clk 0:15:40] } 10... f5 { [%clk 0:14:25] } 11. exf6+ { [%clk 0:15:47] } 11... Kxf6 { [%clk 0:14:11] } 12. Be3 { [%clk 0:15:34] } 12... Bb4+ { [%clk 0:14:07] } 13. Kf1 { [%clk 0:14:53] } 13... Nf5 { [%clk 0:13:53] } 14. Bxf5 { [%clk 0:14:55] } 14... Qxd1+ { [%clk 0:13:53] } 15. Rxd1 { [%clk 0:15:05] } 15... Bxf5 { [%clk 0:13:54] } 16. Nf3 { [%clk 0:15:11] } 16... Rhd8 { [%clk 0:13:47] } 17. Kf2 { [%clk 0:15:17] } 17... Bd6 { [%clk 0:13:12] } 18. Bd4+ { [%clk 0:15:20] } 18... Kf7 { [%clk 0:13:03] } 19. Ne5+ { [%clk 0:15:21] } 19... Kg8 { [%clk 0:13:01] } 20. h3 { [%clk 0:14:49] } 20... Be6 { [%clk 0:12:44] } 21. a3 { [%clk 0:14:33] } 21... c5 { [%clk 0:12:22] } 22. Bc3 { [%clk 0:14:30] } 22... Bb3 { [%clk 0:12:05] } 23. Rd2 { [%clk 0:14:15] } 23... Bc7 { [%clk 0:11:58] } 24. Rd7 { [%clk 0:13:43] } 24... Rxd7 { [%clk 0:11:52] } 25. Nxd7 { [%clk 0:13:51] } 25... Rd8 { [%clk 0:11:43] } 26. Ne5 { [%clk 0:13:46] } 26... a5 { [%clk 0:11:23] } 27. Re1 { [%clk 0:13:23] } 27... b5 { [%clk 0:11:02] } 28. Nc6 { [%clk 0:13:14] } 28... Rf8 { [%clk 0:11:01] } 29. g3 { [%clk 0:12:52] } 29... b4 { [%clk 0:11:01] } 30. axb4 { [%clk 0:12:44] } 30... axb4 { [%clk 0:07:29] } 31. Be5 { [%clk 0:12:51] } 31... Bb6 { Black offers draw } { [%clk 0:07:21] } { The game is a draw. } 1/2-1/2
+
+

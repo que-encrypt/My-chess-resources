@@ -1,0 +1,341 @@
+[Event "🔥 The Nakhmanson Gambit: 📖 Introduction"]
+[Site "https://lichess.org/study/0AiFbOSW/rD9hakxG"]
+[Result "*"]
+[UTCDate "2020.07.04"]
+[UTCTime "14:33:37"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+
+{ You can watch the introduction as a video aswell: https://youtu.be/BfazYNnRXDA Welcome to my study about the Nakhmanson Gambit! The Nakhmanson Gambit is a chess opening for white that can be reached in several move orders, but is mainly assigned to the Italian Game. In the gambit white is willing to temporarily give up two minor pieces to open up the position, getting an ultra fast development and weakening blacks king. The opening is quite famous in online blitz games because for an unprepared opponent it's nearly unpossible to survive the attack if he accepts the gambit. Truth must be told the Nakhmanson Gambit is only a rare guest in over the board tournament games because black has some decent ways to decline the gambit. Recently the Nakhmanson Gambit got quite some attention because Jonathan Schrantz played it several times on his twitch channel Vampirechicken. So a big shout out to him for his work!
+
+I divided the study into four theoretical parts, that are backed up by some tactical exercises. First I will show you the absolute mainline of the Nakhmanson Gambit, when black accepts the gambit and will bring his king back to e8. In part two of the study I will show you the engine line 8...Kf6. I doubt that you will ever get it in a practical game because its to risky to play for a human without an engine, but we still should take brief a look at the line because it's the engines favourite. In part three I will show you the main variations to decline the gambit 6... Nxc3. If white will find the best moves, then he will be up a pawn in the end. But due to the fact that rookendings often tend to be a draw, I think white will have drawing chances. I will also cover the move 6...d5 in the video that is quite common even if it's not dangerous for white. In the fourth part I'll show you 6...Nd6. The move isn't that famous for black yet, but it scores incredible well and the engine likes the move as much as 6...Nxc3. Even the IM Georgios Souleidis, also known as The Big Greek, is giving the 6...Nd6 line as his recommandation against the Nakhmanson Gambit, so we really have to cover it.
+
+The opening itself is quite tactical that's why I included some puzzles after each theoretical part. I hope that they will help you to sharpen your tactical vision in the Nakhmanson Gambit.
+
+Please don't forget to hit the ❤ button under the board if you like the study. Thank you! 😊 }
+1. e4 e5 2. Nf3 (2. Bc4 Nf6 3. d4 exd4 4. Nf3 Nc6 (4... Nxe4 5. Qxd4 { would lead to the Urusov Gambit Accepted) }) 5. O-O Nxe4 6. Nc3 { is another way to reach the Nakhmanson Gambit via the Bishop's Opening. }) 2... Nc6 (2... Nf6 { Theoretically it's also possible to reach the Nakhmanson Gambit via the Petrov's Defemce move order, but after } 3. Bc4 { and blacks best reply } 3... Nxe4 { it's no longer possible to go for the Nakhmanson Gambit. } (3... Nc6 { is actually still the most played move by players with a rating under 1.800, so you still could give it a try if you realy want to go for the Nakhmanson Gambit. Because after } 4. d4 exd4 5. O-O Nxe4 6. Nc3 { you reached again the starting position of the Nakhmanson Gambit. })) 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 { The starting position of the Nakhmanson Gambit. I checked my opening books and most of them doesn't even mention the move. White is willing to give up his knight for open lines and ultra fast development. } (6. Re1 { is by far the most common move in this position and was analysed in many books. By playing 6.Nc3 you sidestep well known lines. }) 6... dxc3 { This is the starting position of the Nakhmanson Gambit accepted. } (6... Nxc3 { is the most common way to decline the gambit and will be analysed in Chapter 4. })  (6... Nd6 { is the engines favourite to decline the gambit and will be analysed in chapter 5. })  (6... d5 { is another way to decline the gambit and will be analysed in Chapter 4. }) 7. Bxf7+ { White will temporary give up a second piece to weaken blacks king. } 7... Kxf7 8. Qd5+ Ke8 { The starting position of the main variation of the Nakhmanson Gambit. White has a pretty simple attacking plan now. He wants to put his rook from f1 to e1 to recapture the knight with his rook. Then he will develop his bishop to g5 and bring his last piece into the game by playing Rae1. Meanwhile it is pretty hard for black to find good defending moves. I will analyse this variation in chapter 2. } { [%cal Gf1e1,Gc1g5,Ge1e4,Ga1e1] } (8... Kf6 { is the engines favourite move and will be analysed in chapter 3. })  (8... Kg6 { is already a big blunder that loses the game immediately and will be analysed in chapter 2. })  (8... Ke7 { is already a big blunder that loses the game immediately and will be analysed in chapter 2. }) *
+
+
+[Event "Openings Explained - Nakhmanson Gambit: 📖 Nakhmanson Gambit accepted 8... Ke8"]
+[Site "https://lichess.org/study/gLcoUhrc/Dv5pbZlq"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+[UTCDate "2020.07.04"]
+[UTCTime "14:49:12"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+
+{ You can watch the analyse of this chapter as a video aswell: https://youtu.be/AQv5gW9WfeE In this chapter I will present you the mainline of the Nakhmanson Gambit 8... Ke8. We will find out that in the lines that look most human white will often gain a decisive attack. But truth must be told, with best play black can get away with a draw. Anyway I would doubt that many opponents will find the best defending moves because most of them look pretty ugly to a human eye. }
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 dxc3 7. Bxf7+ Kxf7 8. Qd5+ Ke8 (8... Kf6!? { will be analysed in the next chapter. })  (8... Kg6?? { looses immediately to } 9. Qxe4+ Kf7 (9... Kf6 10. Bg5+ Kf7 11. Bxd8 { and white is up a queen. }) 10. Ng5+ Kg8 (10... Kf6 11. Qf4+ Kg6 (11... Ke7 12. Re1+ Ne5 13. Qxe5#) 12. Qf7+ Kh6 13. g4 { threatening with Qh5 } 13... g6 14. Ne6+ g5 15. Qh5#)  (10... Qxg5 { is the only way to stop the mate, but after } 11. Bxg5 { white is up a queen, so he's winning. }) 11. Qd5#)  (8... Ke7?? { will transpose to the 8... Kg6 line after the moves } 9. Qxe4+ Kf7 10. Ng5+ { White is winning. For more information see the 8... Kg6 line. }) 9. Re1 Be7 { The most common move in this position, but now white will get a strong attack. } (9... Qf6 { is only rarely played, but is probably the best move for black. I think it is hard to find this move as a human. It's more like an engine move and as I already told you: If some one would prepare for the Nakhmanson then he most likely will go for one of the declined variations, thats why I don't think you will encounter this variation that often. Game could continue with } 10. Bg5 Qf7 11. Qxe4+ Be7 12. b4 { threatening b5, so the knight has to move and white would win the bishop on e7. } 12... d5 (12... h6 13. Bxe7 d5 14. Qe3 Nxe7 15. Ne5 Qf6 (15... Qe6 16. Ng6 Qxe3 17. Rxe3 Bf5 18. Nxe7 d4 19. Re2 Bh7 20. Ng6+ Kf7 21. Nxh8+ Rxh8 22. Rae1 { and white is up a rook for a bishop and a pawn. I think both sides can still win the game, but I would prefare white. }) 16. Ng6 c6 (16... Qxg6?? 17. Qxe7#) 17. Re2 { threatening to play Rae1 putting even more pressure on blacks knight on e7. } 17... Bf5 18. Qxe7+ Qxe7 19. Nxe7 Bh7 20. Ng6+ Kf7 21. Nxh8+ Rxh8 22. Rd1 { and white is up a rook for a bishop and a pawn. I think both sides can still win the game, but I would prefare white. }) 13. Qh4 h6 14. b5 Rf8 15. bxc6 hxg5 16. cxb7 Bxb7 17. Qb4 { attacking the bishop on b7 and renew the tention on the bishop on e7 } { [%cal Gb4b7,Gb4e7,Ge1e8] } 17... Bc8 18. Qc5 { threatnening Qc6+ winning the rook. } { [%cal Gc5c6,Gc6e8,Gc6a8] } 18... Bd7 19. Rxe7+ Qxe7 20. Re1 Be6 21. Qc6+ Kf7 22. Rxe6 Qxe6 (22... Qd8 23. Ne5+ Kg8 24. Rg6 { and the game will end in a draw due to a repetition of position. For example: } 24... Kh7 (24... Qe7 25. Qxd5+ Kh7 26. Qd3 { threatening some discovered rook checks. } 26... Kg8 27. Qd5+ Kh7 28. Qd3) 25. Rxg7+ Kxg7 26. Qg6+ Kh8 27. Qh6+ Kg8 28. Qg6+ Kh8 29. Qh6+) 23. Nxg5+ { and white is winning the queen and the game. }) 10. Rxe4 { White has a pretty simple plan. He will play Bg5 and Rae1. It's pretty tough for black to defend properly. For example: } { [%cal Gc1g5,Ga1e1] } 10... d6 (10... h6?? { A logical looking move to prevent white from playing Bg5 fails to a brilliant tactic. } 11. Bxh6!! Rxh6 (11... gxh6 12. Qh5+ Kf8 13. Rf4+ { threatening Qf7 mate. } 13... Bf6 14. Qg6 { with Rxf6 and Re1 to follow. White is already clearly winning. } { [%cal Gf4f6,Ga1e1] }) 12. Qg8#) 11. Bg5 { The game reached the critical position. Black has now some options. } 11... cxb2 (11... h6 12. Bxe7 Nxe7 13. Qh5+ Kf8 14. Rae1 { and it's allready tough for black to find good moves. For example: } 14... Qe8 15. Qh4 { [%cal Gh4e7,Ge1e8] } (15. Qxe8+ Kxe8 16. Rxe7+ Kd8 17. bxc3 { was also possible, but the main move is more precise. }) 15... g5 16. Nxg5 { and white is better. })  (11... Kf8 { Black wants to place his bishop to f6 but before he had to go out of the pin. } 12. Rae1 Bf6 13. b4 { With this move white gets rid of any cxb2 threats and can play a well timed b5 in the future if black doesn't prevent it. } 13... a6 14. Rf4 Ne7 { The only move for black to stay in the game, just try to find another move, you won't find any. } 15. Rxf6+ gxf6 16. Bh6+ Ke8 17. Qh5+ Kd7 18. Qf7 { threatening Bg7. } (18. Qh3+?? { doesn't work because blacks king will find shelter on a7 after the moves } 18... Kc6 19. Nd4+ Kb6 20. Qxc3 Ka7) 18... Rg8 19. Qe6+ Kc6 (19... Ke8?? 20. Qxg8+ { and white is winning. }) 20. Qc4+ Kd7 (20... Kb6 { loses to } 21. Be3+ c5 22. bxc5+ Ka7 23. cxd6+ b6 24. dxe7 Qxe7 25. Bxb6+ Kxb6 26. Rxe7) 21. Qe6+ Kc6 22. Qc4+ { and draw because of the repetition of position. })  (11... Rf8 { with the idea of playing Rf7, protecting his bishop on e7 and making room for the king } { [%cal Rf8f7,Rf7e7,Re8f8,Rf8g8] } 12. Rae1 { as you can see, white just simply sticks to his plan in every variation and will always find a way to gain a nice attack. } 12... cxb2 13. Qxc6+ { this time white even sacrifices his queen } 13... bxc6 14. Rxe7+ Qxe7 15. Rxe7+ Kd8 16. Rxg7+ Ke8 17. Re7+ Kd8 18. Rxh7+ Ke8 19. Re7+ Kd8 { and white won't find anything better then a perpetual check, leading to a forced draw. }) 12. Rae1 b1=Q (12... Bd7?? { this logical looking move is already losing because of } 13. Bxe7 Nxe7 14. Qg5 { and black can no longer defend the knight on e7. }) 13. Rxb1 Kf8 { The only move to stay in the game for black, but let's be honest: The move is pretty hard to find for a human. } (13... Rf8? 14. Rbe1 { and it's allready tough for black to find a good move. For example: } 14... Bd7 15. Bxe7 Nxe7 16. Qh5+ Rf7 17. Ng5 g6 18. Qh6 Bf5 19. Nxf7 Kxf7 20. Rxe7+ { and black can surrender. }) 14. Rbe1 { White threatens to take the bishop on e7 and because he can not defend it he has to move it. } 14... Bf6 (14... Bxg5 { would lead to a mate in 7 after } 15. Nxg5 { [%cal Gd5f7] } 15... Be6 16. Nxe6+ Ke8 17. Nxg7+ Kf8 18. Rf4+ Kxg7 19. Qf7+ Kh6 20. Re6+ Qf6 21. Rexf6+ Kg5 22. h4#) 15. Rf4 Ne7 { Again the only move for black. For example: } (15... Bd7?? 16. Bxf6 Qxf6 (16... gxf6?? { is even worse because of } 17. Ng5!! { threatening mate on f7. } 17... Be8 18. Rxe8+ Qxe8 19. Rxf6+ Kg7 20. Rf7+ Kh6 21. Ne6 { threatening Qg5 mate. } 21... Ne5 22. Rf6+ Qg6 (22... Kh5 23. g4+ Kh4 24. Rh6+ Kxg4 25. Qe4#) 23. Qd2+ Kh5 24. Ng7+ Qxg7 25. Rf5+ Kh4 26. Qf4+ Qg4 27. Qh6+ Qh5 28. Qxh5#) 17. Rxf6+ gxf6 18. Nd4 { and white is winning. }) 16. Rxf6+ { Again this move will lead to a forced draw. } 16... gxf6 (16... Ke8?? { loses to } 17. Qf7+ Kd7 18. Ne5+ dxe5 19. Rd1#) 17. Bh6+ Ke8 18. Qh5+ Kd7 19. Qh3+ Ke8 (19... Kc6?? { loses to } 20. Nd4+ Kd5 21. Qb3+ Kxd4 22. Be3+ Ke5 23. Bc1+ Kd4 24. Qb5 { threatening Bb2 mate } 24... Nd5 25. Rd1+ Ke5 26. Qxd5#)  (19... f5 { loses to } 20. Bg5 Re8 (20... c5 { was relatively best } 21. Rxe7+ Kc6 22. Qh6 Rg8 23. Ne5+ Kb5 24. Nf7 Qb6 25. Qxh7 Rxg5 26. Nxg5 { because white will push harry up the board to victory! } { [%cal Gh2h4,Gh4h5,Gh5h6,Gh6h7,Gh7h8] }) 21. Ne5+ dxe5 22. Rd1+ Ke6 23. Qh6+ Ng6 24. Bxd8 Rxd8 25. Rxd8 { and white is clearly winning. }) 20. Qh5+ Kd7 21. Qh3+ Ke8 22. Qh5+ { And draw because of repetition of position. You may got the feeling that all games will end in a draw by repetition of position, but thats not the case. I had to show you the best defending moves for black, but most of them are pretty hard to find for a human, especially in blitz games. You will find many examples of beautiful wins for white in the 8...Ke8 line in the practical part of this study. } *
+
+
+[Event "Openings Explained - Nakhmanson Gambit: 8...Ke8 10...h6"]
+[Site "https://lichess.org/study/gLcoUhrc/Ff45hI98"]
+[White "zolpi"]
+[Black "jsorel32"]
+[Result "*"]
+[WhiteElo "2320"]
+[BlackElo "2381"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+[UTCDate "2020.07.04"]
+[UTCTime "15:40:28"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "r1bqk2r/ppppb1p1/2n4p/3Q4/4R3/2p2N2/PPP2PPP/R1B3K1 w - - 0 11"]
+[SetUp "1"]
+
+{ You can watch the analyse of this tactic as a video aswell: https://youtu.be/aPjYPATPUyw?t=114 Blacks last move 10... h6 was a big blunder. Can you find the winning move for white? }
+11. Bxh6 gxh6 (11... Rxh6 { fails to } 12. Qg8#) 12. Qh5+ Kf8 13. Rf4+ (13. Qg6 { is also winning. }) 13... Bf6 14. Qg6 { And black will lose the bishop on f6 and the game. A nice tactical shot by Jonathan Schrantz who brought the Nakhmanson Gambit back to life recently as he played some games in the variation on his twitch channel vampirechicken. } *
+
+
+[Event "Openings Explained - Nakhmanson Gambit: 8...Ke8 11...Ne5"]
+[Site "https://lichess.org/study/gLcoUhrc/kVff1UmO"]
+[White "david_gomez"]
+[Black "darkhorse_98"]
+[Result "1-0"]
+[WhiteElo "2578"]
+[WhiteTitle "FM"]
+[BlackElo "2593"]
+[BlackTitle "FM"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+[UTCDate "2020.07.04"]
+[UTCTime "15:40:40"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "r1bqk2r/ppp1b1pp/3p4/3Qn1B1/4R3/2p2N2/PPP2PPP/R5K1 w - - 0 12"]
+[SetUp "1"]
+
+{ Blacks last move 11... Ne5 was a big blunder. Can you find the winning move for white? }
+12. Nxe5 dxe5 13. Qxe5 Qd6 14. Qxg7 (14. Qxc3 { is another winning move. }) 14... Bf5 15. Rxe7+ (15. Qxh8+?? Kf7 16. Qxc3 Bxg5 { and black can still play on. }) 15... Qxe7 16. Qxe7# 1-0
+
+
+[Event "🔥 The Nakhmanson Gambit: 🎯 DrDevilChess (2292) - abel250 (2411)"]
+[Site "https://lichess.org/study/0AiFbOSW/PM5D0AjD"]
+[White "DrDevilChess"]
+[Black "abel250"]
+[Result "1-0"]
+[WhiteElo "2292"]
+[BlackElo "2411"]
+[UTCDate "2020.07.05"]
+[UTCTime "20:41:30"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+[FEN "r1bqk3/ppppbrpp/2n5/3Q2B1/4R3/2p2N2/PPP2PPP/R5K1 w - - 0 12"]
+[SetUp "1"]
+
+{ You can watch the analyse of this tactic as a video aswell: https://youtu.be/aPjYPATPUyw?t=243 Blacks last move 11... Rf7 was a big blunder. Can you find the winning move for white? }
+12. Bxe7 (12. Rae1 { was played in iam24601 (2528) - taktricker (2417), but after 12... Kf8 the computer thinks, that the position is about equal. Game could continue } 12... Kf8 13. Ne5 Rf5 14. Nxc6 dxc6 15. Bxe7+ Qxe7 16. Qxf5+ Bxf5 17. Rxe7 cxb2 18. R7e2 { and even if I think white should be slightly better, it's still a long way to go. }) 12... Nxe7 (12... Rxe7 { fails to } 13. Qg8#) 13. Ng5 { The only move! } (13. Rae1 { fails again to 13...Kf8. } 13... Kf8) 13... Rf6 14. Qg8+ Rf8 15. Qxg7 { and with threats like Rae1 and Nxh7 white is already clearly winning. I stopped the tactic at this point because there are to many good moves now for white. If you want to check the position in more detail just turn on the engine. } 1-0
+
+
+[Event "Openings Explained - Nakhmanson Gambit: 8...Ke8 12....Rf7"]
+[Site "https://lichess.org/study/gLcoUhrc/EeQgkTsu"]
+[White "iamstraw"]
+[Black "penguingim1"]
+[Result "0-1"]
+[WhiteElo "2822"]
+[WhiteTitle "IM"]
+[BlackElo "3019"]
+[BlackTitle "GM"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+[UTCDate "2020.07.04"]
+[UTCTime "15:40:14"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "r1bqk3/ppp1brpp/2np4/3Q2B1/4R3/2p2N2/PPP2PPP/4R1K1 w - - 0 13"]
+[SetUp "1"]
+
+{ Blacks last move 12... Rf7 was a big blunder. Unfortunately white didn't find the winning tactic. Can you find the winning move for white? }
+13. Bxe7 Rxe7 14. Rxe7+ (14. Qg8+ { Is equally good and would transpose to the mainline. } 14... Kd7 15. Rxe7+ Qxe7 16. Rxe7+ Nxe7 17. Qxg7 cxb2 18. Qxb2) 14... Qxe7 (14... Nxe7 { is even worse because of } 15. Qg8+ Kd7 16. Ne5+ dxe5 17. Rd1+ Kc6 18. Qc4+ Kb6 19. Rxd8) 15. Qg8+ Kd7 16. Rxe7+ Nxe7 17. Qxg7 cxb2 18. Qxb2 { White is winning. } 0-1
+
+
+[Event "Openings Explained - Nakhmanson Gambit: 8...Ke8 12...Bd7"]
+[Site "https://lichess.org/study/gLcoUhrc/UwSi7gjh"]
+[White "HaakonGM"]
+[Black "ODEriksen"]
+[Result "0-1"]
+[WhiteElo "2231"]
+[BlackElo "2110"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+[UTCDate "2020.07.04"]
+[UTCTime "15:41:05"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "r2qk2r/pppbb1pp/2np4/3Q2B1/4R3/5N2/PpP2PPP/4R1K1 w - - 0 13"]
+[SetUp "1"]
+
+{ You can watch the analyse of this tactic as a video aswell: https://youtu.be/aPjYPATPUyw?t=380 Blacks last move 8... Bd7 was a big blunder. Can you find the winning move for white? }
+13. Bxe7 Nxe7 { This position was already reached three times on Lichess, but white always failed to find the winning move. } 14. Qg5! { Black can not stop white from invading the 7th rank. He will lose to much material or even get mated. } (14. Ng5 { leads only to a forced draw after the moves } 14... Rf8 15. Nxh7 b1=Q 16. Qh5+ Rf7 17. Nf6+ gxf6 18. Qh8+ Rf8 19. Qh5+ Rf7 20. Qh8+ Rf8) 0-1
+
+
+[Event "Openings Explained - Nakhmanson Gambit: 8...Ke8 13...c6"]
+[Site "https://lichess.org/study/gLcoUhrc/3dMFDy1Z"]
+[White "Jonnyx"]
+[Black "japazo"]
+[Result "0-1"]
+[WhiteElo "2217"]
+[BlackElo "2256"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+[UTCDate "2020.07.04"]
+[UTCTime "15:40:52"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "r1bqk2r/pp2n1p1/2pp3p/3Q4/4R3/2p2N2/PPP2PPP/4R1K1 w - - 0 14"]
+[SetUp "1"]
+
+{ You can watch the analyse of this tactic as a video aswell: https://youtu.be/aPjYPATPUyw?t=552 Blacks last move 13... c6 was a big blunder. Can you find the winning move for white? }
+14. Qh5+ (14. Qd4 { is also a good move. }) 14... Kd7 15. Qf7 (15. Ng5 { is also good. })  (15. Qg4+ { is also good })  (15. Rxe7+? { was the move I played in the game, but it just simply leads to a roughly equal position. } 15... Qxe7 16. Rxe7+ Kxe7 17. bxc3 Be6 { and with two rooks and a pawn for the queen black is still in the game. }) 15... Re8 16. bxc3 { White is winning. He will win the knight on e7 at any point by simply rerouting his own knight to f5 or g6. In most of the variations white even has the time to grab the pawn on g7. } 0-1
+
+
+[Event "Openings Explained - Nakhmanson Gambit: 8...Ke8 13...h6"]
+[Site "https://lichess.org/study/gLcoUhrc/Z0th03SW"]
+[White "Lincoln"]
+[Black "Ironmangareth"]
+[Result "1-0"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+[UTCDate "2020.07.04"]
+[UTCTime "15:39:08"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "r1bqkb1r/pp2n1p1/2pp3p/6B1/3QR3/5N2/PpP2PPP/4R1K1 w - - 0 14"]
+[SetUp "1"]
+
+{ Blacks last move 13... h6 was a big blunder. Can you find the winning move for white? }
+14. Bxe7 (14. Rxe7+ { was another good option for white. Game could continue with } 14... Bxe7 15. Bxe7 Qxe7 16. Rxe7+ Kxe7 17. Qxg7+ Ke6 18. Qxb2 Re8 { and white should win the game. Anyway the main move is even better. }) 14... Bxe7 15. Qxg7 Rf8 16. Rxe7+ Qxe7 17. Qxe7# { Capturing on e7 is often a good idea with the white queen on d4, because if black recaptures with the bishop, then the g7 pawn is weak. } 1-0
+
+
+[Event "Openings Explained - Nakhmanson Gambit: 8...Ke8 14...d5"]
+[Site "https://lichess.org/study/gLcoUhrc/Hg9wiZzk"]
+[White "Quggai"]
+[Black "infrared"]
+[Result "1-0"]
+[WhiteElo "2323"]
+[BlackElo "2476"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+[UTCDate "2020.07.04"]
+[UTCTime "15:39:55"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "r1bqkb1r/pp2n1pp/2p5/3p2B1/3QR3/5N2/P1P2PPP/1R4K1 w - - 0 15"]
+[SetUp "1"]
+
+{ Blacks last move 14... d5 was a big blunder. Can you find the winning move for white? }
+15. Rxe7+ (15. Re5 { is another good move and was played in the game. } 15... Kf7 16. Rbe1 Qb6 17. Rxe7+ { and black resigned because of mate in 7. }) 15... Bxe7 16. Re1 Bf5 17. Rxe7+ Qxe7 (17... Kf8 { fails to } 18. Qxg7#) 18. Bxe7 Kxe7 19. Qe5+ Be6 20. Ng5 { and white is clearly winning. } 1-0
+
+
+[Event "Openings Explained - Nakhmanson Gambit: 8...Kg6"]
+[Site "https://lichess.org/study/gLcoUhrc/kVugy29u"]
+[White "Quggai"]
+[Black "deek741"]
+[Result "1-0"]
+[WhiteElo "2348"]
+[BlackElo "2253"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+[UTCDate "2020.07.04"]
+[UTCTime "16:03:59"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "r1bq1b1r/pppp2pp/2n3k1/3Q4/4n3/2p2N2/PPP2PPP/R1B2RK1 w - - 0 9"]
+[SetUp "1"]
+
+{ Blacks last move 8... Kg6 was a big blunder. Can you find the winning move for white? }
+9. Qxe4+ Kf7 10. Ng5+ (10. Qd5+ { is also winning, but by far not as clear as the main move. } 10... Ke8 11. Re1+ Be7 12. Ng5 d6 13. Nf7 Qd7 14. Nxh8 Qf5 15. Qg8+ Kd7 16. bxc3) 10... Kf6 (10... Qxg5 { was the only move to stop the mate, but beeing down a queen black can easily surrender. } 11. Bxg5) 11. Qf4+ { This is the fastest way to mate blacks king. } 11... Kg6 12. Qf7+ Kh6 13. g4 (13. Ne6+ { was actually played in the game and is of course winning, but the main move ends the game a little bit faster. }) 13... g6 14. Ne6+ g5 15. Qh5# 1-0
+
+
+[Event "Openings Explained - Nakhmanson Gambit: 📖 Nakhmanson Gambit accepted"]
+[Site "https://lichess.org/study/gLcoUhrc/Dv5pbZlq"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+[UTCDate "2020.07.04"]
+[UTCTime "15:50:33"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+
+{ You can watch the analyse of this chapter as a video aswell: https://youtu.be/Xcur4I0b_N8 In this chapter I will show you what will happen if black accepts the Nakhmanson Gambit and plays 8... Kf6. This move is the engines favorite and if black finds some more only moves, he will remain beeing a pawn up in a slightly better position. But truth must be told, I don't think that this variation is a practical way of playing for black because most of the moves are pretty hard to find for a human without the help of an engine. And even if black prepares the line with the computer, white only needs to play a single different move and black is out of book in a position where blacks king stands in the middle of a war. }
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 dxc3 7. Bxf7+ Kxf7 8. Qd5+ Kf6 { The only move for black if he wants to play for the win. But lets be honest: Nobody would play this move in an over the board game if he's not prepared and even if he's prepared he has to find some more only moves untill he's better. If I would be black I would rather go for one of the declined variations we will see in the following chapters. } (8... Ke8 { was analysed in the last chapter. }) 9. Re1! { White threatens to take the knight on e4 to play Bg5+ next. } { [%cal Ge1e4,Gc1g5] } (9. Qxe4?! { looks good at a first glance, because white threatens Bg5+, but it fails to } { [%cal Gc1g5] } 9... Be7 { for example: } 10. Ng5 (10. Qf4+? Kg6 11. Qg4+ Kf7 { doesn't help white. })  (10. Bg5+ Kf7 { doesn't help white either. }) 10... d5 11. Qf4+ Bf5 (11... Kg6 12. Qf7+ Kh6 13. Ne6+ { and white is winning. }) 12. g4 Qd7 13. gxf5 Qxf5 14. bxc3 Qxf4 15. Bxf4 { and black is up a pawn, while whites pawnstructure is a mess. Without the queens on the board even blacks king doesn't look that bad anymore. Black is better. }) 9... Ne7 { The only move, but so hard to find in an over the board game without preparation. } (9... h6? { to stop white from playing Bg5 at a certain point. } 10. Rxe4 { and black is already worse. For example } 10... Bd6 { to stop white from playing Rf4+ } 11. Be3 Kg6 12. Rg4+ Kh7 13. Bxh6! gxh6 (13... Kxh6 14. Qf7 { [%cal Gf7g6] } 14... Qf6 15. Rh4+ Qxh4 16. Nxh4 Kh7 17. Qf5+ Kg8 18. Qd5+ Kh7 19. Re1 { threatening Qf5+ followed by Re8# } 19... Rf8 20. bxc3 { White is thretening Qh5+ followed by Ng6 or Nf5. The engine gives it allready as winning for white. }) 14. Qf7#)  (9... Be7?? { leads to mate. For example: } 10. Rxe4 d6 11. Rf4+ Kg6 12. Qf7+ Kh6 13. Rh4#) 10. Qxe4 Kf7 { Again the only move. } (10... d5? 11. Qf4+ Bf5 (11... Kg6 12. Ne5+ Kh5 13. Qg5#) 12. g4 { White will gain back the piece while blacks king is still in danger. For example: } 12... Qd6 13. Re5! g6 14. gxf5 gxf5 15. bxc3 Kf7 16. Rxf5+ Ke8 (16... Nxf5?? { fails to } 17. Qxf5+ Kg8 18. Ne5 { threatening Qf7 mate } 18... Qe7 19. Bg5 Qe8 20. Bf6 { and black is falling apart. }) 17. Rh5 (17. Ne5!? { is probably worth some homework }) 17... Bg7 18. Qg4 Bxc3 19. Rb1 Qg6 20. Qxg6+ hxg6 21. Rxh8+ Bxh8 22. Rxb7 Kd7 23. Bf4 Rc8 24. Rxa7 { With slightly better chances for white. }) 11. Bg5 { pinning the knight on e7 } 11... cxb2 12. Rab1 d5 13. Qf4+ Kg8 (13... Ke8 14. Ne5 { threatening mate on f7. } { [%cal Gf4f7] } 14... Be6 (14... Qd6 15. Qf7+ Kd8 16. Nc4 Qd7 (16... dxc4? 17. Rbd1 Bd7 18. Rxd6 cxd6 19. Bxe7+ Bxe7 20. Qxe7+ Kc7 21. Qxg7 { and white is better. }) 17. Ne5 Qd6 18. Nc4 { and draw because of the repetition of moves. }) 15. Rxb2 { and white has some compensation for the pawn. } { [%cal Ge1e8,Gb2b7,Gf4a4] }) 14. Qe5 { attacking the knight a third time. } { [%cal Ge5e7,Gg5e7,Ge1e7] } 14... h6 (14... Kf7 15. Qf4+ Kg8 16. Qe5 { and black can go for the draw with a repetition of position or he trys another move. }) 15. Bxe7 Bxe7 16. Qxe7 Kh7 17. Rxb2 b6 { Black is up a pawn and his king relatively safe. Even if the final position doesn't look to satisfying for us black had to find some crazy moves to come to this position. I would doubt that a human can find this moves on the board without any preparation. But even with preparation I doubt that someone is willing to go for the 8...Kf6 line because if white just plays one different move he's out of book while his king is still in grave danger. } *
+
+
+[Event "🔥 The Nakhmanson Gambit: 🎯 iam24601 (2565) - MuHyc_MacTeP (2575)"]
+[Site "https://lichess.org/study/0AiFbOSW/ylqsEaTP"]
+[White "iamstraw"]
+[Black "MuHyc_MacTeP"]
+[Result "1-0"]
+[WhiteElo "2565"]
+[WhiteTitle "FM"]
+[BlackElo "2575"]
+[UTCDate "2020.07.05"]
+[UTCTime "21:01:41"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+[FEN "r1bq1b1r/pppp3p/2n2kp1/3Q4/4n3/2p2N2/PPP2PPP/R1B1R1K1 w - - 0 10"]
+[SetUp "1"]
+
+{ Blacks last move 9...g6 was a big blunder. Can you find the winning move for white? }
+10. Rxe4 Kg7 11. Bg5 cxb2 (11... Be7 { fails to } 12. Rxe7+ Nxe7 13. Qe5+ Kg8 14. Bh6 { threatening mate on g7 } 14... Nf5 (14... Kf7 15. Ng5+ Ke8 16. Qxh8+ Ng8 17. Re1+ Qe7 18. Qxg8#) 15. Qd5#) 12. Rae1 Qxg5 13. Nxg5 { and white is winning. } 1-0
+
+
+[Event "🔥 The Nakhmanson Gambit: 🎯 Schnabulator3000 (2522) - Arystanner23 (2539)"]
+[Site "https://lichess.org/study/0AiFbOSW/5Nzh6Ek6"]
+[White "Schnabulator3000"]
+[Black "Arystanner23"]
+[Result "1-0"]
+[WhiteElo "2522"]
+[BlackElo "2539"]
+[BlackTitle "IM"]
+[UTCDate "2020.07.05"]
+[UTCTime "21:11:49"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+[FEN "r1bqr3/pppp2p1/2nb1k1p/3Q4/4R3/2P2N2/P1P2PPP/R1B3K1 w - - 0 12"]
+[SetUp "1"]
+
+{ You can watch the analyse of this tactic as a video aswell: https://youtu.be/aPjYPATPUyw?t=731 Blacks last move 11... Re8 was a big blunder. Can you find the winning move for white? }
+12. Bg5+ hxg5 13. Qxg5+ Kf7 14. Qf5+ Qf6 (14... Kg8 { doesn't help because of } 15. Ng5 Rxe4 (15... Bxh2+ { the only move to stop the mate } 16. Kxh2 Rxe4 17. Qh7+ Kf8 18. Qh8+ Ke7 19. Qxg7+ Kd6 20. Nxe4+ Ke6 21. Ng5+ Qxg5 22. Qxg5 { and white is winning. }) 16. Qh7+ Kf8 17. Qh8+ Ke7 18. Qxg7+ Ke8 19. Qf7#) 15. Ng5+ Kf8 (15... Kg8 { fails to } 16. Qh7+ Kf8 17. Qh8#) 16. Nh7+ Kf7 17. Nxf6 gxf6 (17... Re5 18. Qh7 Rxe4 19. Nxe4 { was relatively best, but even here white is already clearly winning. }) 18. Qh7+ Kf8 19. Qh8+ (19. Rg4 { is also winning. }) 19... Kf7 20. Qxe8+ Kg7 21. Rg4+ Kh6 22. Qg6# (22. Qh8# { is winning aswell. }) 1-0
+
+
+[Event "Openings Explained - Nakhmanson Gambit: 📖 Nakhmanson Gambit declined 6...Nxc3"]
+[Site "https://lichess.org/study/gLcoUhrc/ctDfrmFy"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+[UTCDate "2020.07.04"]
+[UTCTime "16:06:29"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+
+{ You can watch the analyse of this chapter as a video aswell: https://youtu.be/9cIFGsQUT7A In this chapter I will show you the mainline of the Nakhmanson Gambit Declined 6...Nxc3. With best play by white he will be up a pawn in the end, but on the way black can go wrong at several occasions, so that you will have some practical chances to win. Even if black finds the best moves, I belive, that I found a way to keep good drawing chances for white. I will also cover the move 6...d5 wich is played occasionally aswell. We don't need to fear the move, but of course I had to cover it. }
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 Nxc3 (6... Nd6 { will be analysed in the next chapter. })  (6... d5 7. Bxd5 dxc3 8. Bxe4 Qxd1 9. Rxd1 Bb4 (9... cxb2 10. Bxb2 f6 { otherwise blacks darksqured bishop can not move. } 11. Re1 { threatening Bxc6 } 11... Kd8 12. Rad1+ Bd7 13. Re3 { and white should have some compensation for the pawn. His next moves could be Red3, Nd4 or perhaps even a well timed Ba3 if black plays Bd6. }) 10. Bxc6+ bxc6 11. Ne5 Bd6 (11... Bb7 12. Rb1 { is fine for white. }) 12. Nxc6 Bb7 13. Re1+ Kd7 14. Ne5+ Bxe5 15. Rxe5 Rhe8 16. Re3 Rxe3 (16... cxb2 17. Rd3+ Kc8 18. Bxb2 { with an equal position. }) 17. Bxe3 cxb2 18. Rb1 Bd5 19. Rxb2 { with an equal position. }) 7. bxc3 d5 (7... dxc3?? { is a big blunder because of } 8. Re1+ Be7 9. Ng5 O-O 10. Qh5 { threatening mate on h7 } 10... Bxg5 (10... h6 { doesn't help because of } 11. Nxf7 Qe8 (11... Rxf7 12. Bxf7+ Kf8 13. Bd5 { threatening Qf7 mate } 13... Qe8 14. Qxh6 { threatening Qh8 mate } 14... gxh6 (14... Qf7 15. Qh8+ Qg8 16. Qxg8#) 15. Bxh6#) 12. Nxh6+ Kh7 13. Nf7+ Kg8 14. Qh8#) 11. Bxg5 { and white wins the queen. }) 8. Bb5 (8. Re1+ { is enougher possibility for white, you could try out if you don't like the mainline. Game could continue: } 8... Be7 9. Bb5 O-O (9... dxc3? 10. Nd4 Bd7?? (10... O-O 11. Bxc6 Bf6 (11... bxc6?? 12. Nxc6 { and white will win the bishop on e7. }) 12. Bb5 c5 13. Nf3 a6 14. Bd3 { and white got a knight for three pawns. I think both sides still have winning chances. }) 11. Ba3 Be6 12. Nxe6 fxe6 13. Bxc6+ bxc6 14. Rxe6 O-O 15. Bxe7 Qd7 16. Bxf8 Qxe6 17. Bc5 { and white is winning. }) 10. cxd4 h6 11. Bxc6 bxc6 12. Ne5 Bd6 13. Qf3 { Black is up a pawn and got the bishop pair so he's at least slightly better. }) 8... Be7 { The game reached the critical position. White has tryed many moves in this position. I will show you the two main moves and a line that I would recommand. } (8... dxc3? 9. Nd4 Qd6 (9... Bd7?? 10. Nxc6 bxc6 11. Re1+ Be7 12. Ba3 cxb5 13. Rxe7+ Qxe7 14. Bxe7 Kxe7 15. Qxd5 { and white is winning. }) 10. Re1+ Be7 11. Nxc6 bxc6 12. Ba3! Qxa3 13. Bxc6+ Bd7 14. Bxa8 { black has to do something about the d5 pawn now } 14... c6 15. Qe2 Qd6 { White is up a rook for a bishop and two pawns, but blacks king is still in the middle of the board. Black has to play Be6 to finaly castle kingside, but this will give white enough time to bring a rook to the b-file and win at least the c6 pawn back. I think both sides can still play for a win. }) 9. Bxc6+ { This move is nearly unknown so far, but it's my recommendation. I'm not saying that it is superior to the other lines, but I think the move is quite flexible. You can try to dull the game and go for a draw, or you can try to go for the dark squared plan you see in the 9. cxd4 line. } (9. Nxd4 { is the most played move in this position. White puts even more presure on the knight on c6 and plans to use the b file for one of his rooks. Game could continue with } 9... Bd7 10. Rb1 O-O 11. Bd3 { attacking the b7 pawn with the rook and threatening Qh5 with a double attack on h7 and d5. } 11... Nxd4 12. cxd4 b6 13. Qh5 { threatening mate on h7 and attacking the d5 pawn. } (13. Qf3 c6 14. Bf4 Bf6 15. c3 { and I don't see any compansation for the pawn for white. Black is just simply better. }) 13... g6 14. Qxd5 Be6 15. Qf3 Bxa2 { and I don't think that white will have enough compansation for the pawn. })  (9. cxd4 { This move is the favorite choice of FM iam24601 who played it in many games on Lichess. His blitz rating is over 2.700 points so we really should take a look at the variation, if he trusts it that much. } 9... O-O 10. Bxc6 bxc6 11. Ne5 Bd7 (11... Bd6) 12. a4 { white plans to play for the dark squares in the center by bringing his bishop to a3 and rerouting the knight to c5. } 12... f6 13. Nd3 Bf5 14. Ba3 Bd6 15. Nc5 Qe7 16. Re1 Qf7 17. Nd3 Rfe8 18. Bxd6 cxd6 19. Qf3 Be4 20. Qg3 { attacking the d6 pawn. } 20... Qd7 { and I think black must be better in this position. He will bring the rook from a8 to c8 to play a well timed c5. Black even got options of going rampage with g5 at the right moment. }) 9... bxc6 10. Ne5 { Attacking the pawn on c6. } 10... Bd7 11. Qf3 { Threatening mate on f7. } 11... O-O 12. cxd4 f6 13. Nxd7 { With this move you're trying to go for a draw. You could also try the move } (13. Nd3 { with the plan of playing a4, Ba3 and Nc5 to gain some control over the dark squares in the center. } 13... Rb8 14. a4 Bd6 15. Ba3 Re8 16. Nc5 { with a similar game as in the 9.cxd4 line played by FM iam24601. }) 13... Qxd7 14. Ba3 Bxa3 15. Qxa3 Qd6 16. Qa5 { Even if black is up a pawn and therefore is to prefer, I think that white still has good drawing chances. Whites queen is actually pretty well placed because she's attacking the h7 and c7 pawns, so black finds it hard to bring his rook on a8 into the game. Even the engine gives it only as -0,4 for black. } *
+
+
+[Event "Openings Explained - Nakhmanson Gambit: 6...Nxc3 8.bxc3"]
+[Site "https://lichess.org/study/gLcoUhrc/HnyHtbIE"]
+[White "iamstraw"]
+[Black "Dravica"]
+[Result "1-0"]
+[WhiteElo "2842"]
+[WhiteTitle "IM"]
+[BlackElo "2340"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+[UTCDate "2020.07.04"]
+[UTCTime "16:07:00"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "r1bqk2r/ppppbppp/2n5/8/2B5/2p2N2/P1P2PPP/R1BQR1K1 w kq - 0 9"]
+[SetUp "1"]
+
+{ Blacks last move 8... bxc3 was a big blunder. Can you find the winning move for white? }
+9. Ng5 O-O (9... Rf8 { loses to } 10. Nxf7 Rxf7 11. Qd5 Rf8 12. Qh5+ g6 13. Qxh7 d5 14. Qxg6+ Kd7 15. Bxd5 Nb4 16. Be6+ Kc6 17. Bxc8+ Kb5 18. Bxb7)  (9... d5 { loses to } 10. Nxf7 Kxf7 11. Bxd5+ Ke8 12. Ba3 Bf5 13. Bxc6+ bxc6 14. Qh5+ Bg6 15. Qf3 Rb8 16. Qxc6+ Kf7 17. Qe6+ Ke8 18. Rad1) 10. Qh5 Bxg5 (10... h6 { loses to } 11. Nxf7 Rxf7 12. Bxf7+ Kf8 (12... Kh8 13. Bxh6 g6 14. Bg7+ Kxg7 15. Qxg6+ Kf8 16. Qg8#) 13. Bd5 Qe8 14. Qf5+ Bf6 15. Qxf6+ gxf6 16. Bxh6#) 11. Bxg5 g6 12. Qh6 (12. Qh4 { is another good move. }) 12... d5 13. Bxd8 Nxd8 14. Bxd5 { and white is winning. Black surrendered 2 moves later. } 1-0
+
+
+[Event "Openings Explained - Nakhmanson Gambit: 6...d5 11...Be7"]
+[Site "https://lichess.org/study/gLcoUhrc/fVdXrZ3t"]
+[White "JerryMungo"]
+[Black "RegitaDesyariPutri"]
+[Result "1-0"]
+[WhiteElo "2189"]
+[BlackElo "2109"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+[UTCDate "2020.07.04"]
+[UTCTime "16:08:08"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[FEN "r1b1k2r/ppp1b1pp/2n2p2/8/4B3/5N2/PBP2PPP/R3R1K1 w kq - 0 12"]
+[SetUp "1"]
+
+{ You can watch the analyse of this tactic as a video aswell: https://youtu.be/aPjYPATPUyw?t=1011 Blacks last move 11... Be7 was a big blunder. Can you find the winning move for white? }
+12. Bxc6+ bxc6 13. Ba3 { White will win the bishop on e7 and the game. } 1-0
+
+
+[Event "Openings Explained - Nakhmanson Gambit: 📖 Nakhmanson Gambit declined"]
+[Site "https://lichess.org/study/gLcoUhrc/ctDfrmFy"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Jonnyx"]
+[UTCDate "2020.07.04"]
+[UTCTime "16:09:38"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+
+{ You can watch the analyse of this chapter as a video aswell: https://www.youtube.com/watch?v=zhq1xtZyAtU In this chapter I will show you what I consider to be the strongest reply against the Nakhmanson Gambit: 6...Nd6. The move isn't that famous yet, accepting the Nakhmanson Gambit or decline it with 6...Nxc3 or 6...d5 are much more common moves, but this move is the enignes favourite. I also saw the first videos by good chessplayers like IM The Big Greek and GM Niclas Huschenbeth who recommend the move for black, so I had to cover it in this video series. Truth must be told: If black plays accurate moves, he will get a good position with beeing a pawn up, so I have to agree that this line is probably the hardest test for Nakhamnson Gambit players. }
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 Nd6 { A logical move. The knight is protecting the f7 square against any bishop sacrifices and is attacking the bishop on c4 at the same time. To be honest: I think that this move is the strongest reply for black against the Nakhmanson Gambit. } 7. Qe2+ { This is only the third most played move in this position, but I would highly recommand it because black is forced to find some only moves now or white can at least equalize the game. } (7. Re1+ { is the most played move in this position, but I think that black should be simply better after the moves } 7... Be7 8. Nd5 Nxc4 { the only move for black } (8... O-O? 9. Nxe7+ Nxe7 10. Bg5 Re8 11. Qe2 Nxc4 12. Bxe7 Rxe7 13. Qxe7 Qxe7 14. Rxe7 Kf8 15. Re2 d5 16. Nxd4 { and white is better }) 9. Nxe7 Nxe7 10. Qxd4 O-O (10... d5 { protecting the knight fails to } 11. Qxg7 Rf8 12. Bh6 Be6 13. Qxf8+ Kd7 14. Qxd8+ Rxd8 15. b3 { and white is up an exchange }) 11. Qxc4 d5 12. Qc3 { and black is simply up a pawn with no problems at all. Black is better. })  (7. Nxd4 Nxc4 { the only move for black } (7... Nxd4 { was played in the game Wei Xuan Timothy Chan (2264) vs Dimitry Schneider (2487) at the 1st WMSG Blitz Team tournament in 2008 and is a big blunder because of } 8. Qxd4 Nxc4 (8... Qf6 { was relatively best }) 9. Re1+ Be7 10. Qxg7 Rf8 11. Nd5 d6 12. Nf6#) 8. Qe2+ N6e5 { this move wasn't played in a single game yet, but the engine gives it allready as winning for black. Game could continue: } (8... Be7 9. Qxc4 O-O 10. Nd5 Nxd4 11. Qxd4 { transposes to the mainline. }) 9. b3 Bc5 10. Nf3 d6 11. bxc4 Bg4 { and black is winning. })  (7. Bg5!? { is probably an underestimated line that I just recently came across., but if black isn't gready and plays the most logical moves, he's fine in the end. For example: } 7... Be7 8. Bxe7 Nxe7 9. Qxd4 O-O 10. Bd3 { threatening the Greek Gift Bxh7+! } 10... Ndf5 11. Qg4 d5 12. Rfe1 c6 { and black got a solid position and is up a pawn. }) 7... Be7 { The only move for black to play for an advantage. For example: } (7... Qe7 8. Qd3 { threatening Re1 winning the queen. } 8... Nxc4 (8... dxc3 9. Re1 Nxc4 10. Rxe7+ Bxe7 11. Qxc4 O-O 12. Qxc3 { and beeing up a queen for a rook, bishop and pawn I think white is preferable. }) 9. Qxc4 d6 10. Nd5 Be6 11. Re1 Qd7 12. Bg5 h6 13. Bf6!? Be7 14. Bxe7 Bxd5 (14... Nxe7?? 15. Nxc7+ Kf8 16. Nxe6+ fxe6 17. Rxe6 d5 18. Qe2 { and white is winning. }) 15. Qxd5 Nxe7 16. Qxb7 O-O 17. Nxd4 Rab8 18. Qe4 Rfe8 19. b3 { with an equal position. }) 8. Nd5 Nxc4 { The only move for black to play for an advantage. For example } (8... O-O 9. Bf4 Re8 (9... Nxc4 10. Bxc7 { now black has to find some only moves or he will be lost } 10... Qe8 11. Qxc4 d6 12. Nxd4 Be6 13. Nxc6 bxc6 14. Qxc6 Bxd5 15. Qxd5 Rc8 16. Ba5 Bf6 17. Qxd6 Qa4 { white will lose the b and c pawn. The resultinig positions are somewhat drawish. }) 10. Qd3 { and even if he's down 2 pawns for the moment, the computer thinks that white is allready better. It's not so easy for black to develop his last pieces. For example: } 10... b5 11. Bb3 Bf6 12. Rfe1 Rxe1+?? (12... Re6 { was relatively best, but after } 13. Nxf6+ Qxf6 14. Bxe6 dxe6 15. Bxd6 cxd6 16. c3 dxc3 17. Qxd6 e5 (17... cxb2?? 18. Qxc6 bxa1=Q 19. Qe8#) 18. Qxf6 gxf6 19. bxc3 { white is up the exchange. }) 13. Rxe1 Bb7 14. Nxf6+ Qxf6 15. Bxd6 Qxd6 16. Ng5!! g6 17. Qh3 h5 18. Nxf7 { and black is falling apart. The engine gives it already as +9 for white. }) 9. Qxc4 O-O { The only move for black to play for an advantage. For example: } (9... d6 10. Nxd4 Nxd4 (10... O-O 11. Nxc6 bxc6 12. Qxc6 Rb8 13. Qxc7 Qxc7 14. Nxc7 { and suddenly white is even better. }) 11. Nxc7+ Kf8 12. Nxa8 Nc6 13. Qb5 Kg8 (13... Nd4 14. Qa4 Nc6 15. Qb5 Nd4 16. Qa4 Nc6 17. Qb5 { with a draw due to repetition of position. }) 14. Rd1 h5!? { Black has ideas of pushing h5-h4-h3 to attack whites king. If whites darksquared bishop will ever leave the c1-h6 diagonal black could also develop the rook to h6 and swing over. } 15. c4 Bf6 16. Bf4 Nd4 17. Rxd4 Bxd4 18. Rd1 Qe7 19. Nc7 Bg4 20. Rc1 Bxf2+ 21. Kxf2 Qxc7 22. c5 Bd7 23. Qb4 dxc5 24. Rxc5 Qb6 25. Qxb6 axb6 26. Rc7 Bc6 { and even if white is down a pawn for the moment he should be able to draw the game because of opposite coloured bishops. }) 10. Nxd4 Nxd4 { The only move for black to play for an advantage. For example: } (10... Bf6 11. Nb5 Be5 12. Bf4 Na5 13. Qa4 Bxf4 14. Qxa5 c6 15. Qxd8 Rxd8 16. Nxf4 cxb5 17. Rfd1 { and even if black is up a pawn for the moment white should have enough compansation because of blacks weak pawnstructure. }) 11. Qxd4 c6 { The most often played move in this position. Black wants to win a tempo on the knight to push d5 and get a solid position with beeing up a pawn. } (11... Re8 12. Bf4 d6 13. Qc3 { threatening to take on c7 } 13... c6 14. Nxe7+ Qxe7 15. Rfe1 Be6 16. Re2 { White will double his rooks on the e-file and even if he's down a pawn for the moment I think he still has some drawing chances. If the major pieces will get off the board, the opposite coloured bishops will make it pretty tough for black to win the game. }) 12. Nxe7+ Qxe7 13. Bf4 { White is threatening Bd6 so black has only one move. } (13. Bd2 { is another move you could try. The idea is to bring the bishop to c3 and then start to bring the rooks to the e and d file. Just keep in mind that } { [%cal Gd2c3,Gf1e1,Ga1d1] } 13... d5? { is a mistake because of } 14. Bb4 { and white is better. }) 13... d5 14. Rfe1 Be6 15. Re3 { was played in the game mederes2 (2363) vs misthal (2335). Truth must be told: black is slightly better due to the fact that he's up a pawn. But with opposite coloured bishops white remains with some drawing chances. In the game black played a mistake that gave white the chance to equalize immediately. } 15... c5? 16. Qxd5! Qf6 17. Qe5 Qxe5 18. Rxe5 { with a drawish position. } *
+
+

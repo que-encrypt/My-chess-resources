@@ -1,0 +1,21 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/YCnfFgNI"]
+[Date "2022.05.14"]
+[White "encryptbctroll"]
+[Black "PuddleOfPain"]
+[Result "1-0"]
+[UTCDate "2022.05.14"]
+[UTCTime "01:57:13"]
+[WhiteElo "1973"]
+[BlackElo "1909"]
+[WhiteRatingDiff "+23"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "A00"]
+[Opening "Barnes Opening: Hammerschlag"]
+[Termination "Normal"]
+
+1. f3 e5 2. Kf2 Nf6 3. d4 exd4 4. e3 dxe3+ 5. Bxe3 d5 6. Nc3 Bf5 7. g4 Nxg4+ 8. fxg4 Qh4+ 9. Kg2 Bxg4 10. Qxd5 c6 11. Qd4 Nd7 12. h3 Bc5 13. Qe4+ Be6 14. Qxh4 Bxe3 15. Nf3 g5 16. Qe1 Bb6 17. Bc4 O-O-O 18. Bxe6 fxe6 19. Qxe6 Rde8 20. Qf5 h5 21. Rad1 Re7 22. Rxd7 Rxd7 23. Ne5 1-0
+
+

@@ -1,0 +1,24 @@
+[Event "Computer chess game"]
+[Site "DESKTOP-0RDP155"]
+[Date "2022.08.22"]
+[Round "?"]
+[White "viksp"]
+[Black "viksp"]
+[Result "*"]
+[BlackElo "2400"]
+[ECO "B07"]
+[Opening "Pirc"]
+[Time "18:28:48"]
+[Variation "Pytel-Czech, 4.f4 Qa5"]
+[WhiteElo "2400"]
+[TimeControl "5+0"]
+[Termination "unterminated"]
+[PlyCount "39"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd3 e5 6. Nf3 Bg4 7. Be3 Nbd7 8.
+h3 Bxf3 9. Qxf3 O-O-O 10. O-O-O Be7 11. Kb1 Qb4 12. a3 Qa5 13. g4 h6 14.
+Bc4 Rhf8 15. g5 hxg5 16. fxg5 Nh7 17. h4 f5 18. Qh5 Rh8 19. Qf7 Bf8 20.
+Qxf5 *
+

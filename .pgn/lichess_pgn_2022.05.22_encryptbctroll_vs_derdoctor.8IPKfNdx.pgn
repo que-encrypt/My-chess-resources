@@ -1,0 +1,21 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/8IPKfNdx"]
+[Date "2022.05.22"]
+[White "encryptbctroll"]
+[Black "derdoctor"]
+[Result "1-0"]
+[UTCDate "2022.05.22"]
+[UTCTime "00:54:43"]
+[WhiteElo "2206"]
+[BlackElo "2326"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-8"]
+[Variant "Standard"]
+[TimeControl "900+10"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[Termination "Normal"]
+
+1. e3 g6 2. Ke2 e6 3. Nf3 Ke7 4. Ke1 Kf6 5. Ke2 Kg7 6. Kd3 Kf6 7. Ke2 d5 8. d4 Kg7 9. Ke1 Nf6 10. Nc3 Rg8 11. Be2 Kh8 12. Ne5 Qe8 13. Kf1 Nbd7 14. Nb5 Bd6 15. Nxd6 cxd6 16. Nf3 e5 17. a4 Kg7 18. a5 a6 19. Bd2 h6 20. Bc3 e4 21. Nd2 Nh7 22. Bb4 Qe6 23. c4 Ndf6 24. Qb3 dxc4 25. Nxc4 d5 26. Nb6 Rb8 27. Rc1 Nf8 28. Qc2 N8d7 29. Qc7 Nxb6 30. Qxb8 Na4 31. Ba3 Bd7 32. Qxb7 Rc8 33. Rxc8 Bxc8 34. Qb4 Qc6 35. Qf8+ Kh7 36. Qxf7+ Kh8 37. Qf8+ Ng8 38. g4 Bd7 39. Bd6 1-0
+
+

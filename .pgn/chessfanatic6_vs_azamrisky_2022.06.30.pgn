@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.06.30"]
+[Round "-"]
+[White "chessfanatic6"]
+[Black "azamrisky"]
+[Result "1-0"]
+[CurrentPosition "5rk1/6p1/P7/7Q/2P5/1P4B1/4r1PP/6K1 b - -"]
+[Timezone "UTC"]
+[ECO "C45"]
+[ECOUrl "https://www.chess.com/openings/Scotch-Game-Schmidt-Mieses-Variation"]
+[UTCDate "2022.06.30"]
+[UTCTime "06:09:47"]
+[WhiteElo "1347"]
+[BlackElo "1344"]
+[TimeControl "600"]
+[Termination "chessfanatic6 won by resignation"]
+[StartTime "06:09:47"]
+[EndDate "2022.06.30"]
+[EndTime "06:27:24"]
+[Link "https://www.chess.com/game/live/50308196473"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Nd5 7. c4 Nb6 8.
+Nc3 Bb4 9. Bd2 d6 10. exd6 cxd6 11. Be2 Qe7 12. O-O O-O 13. Bf3 Bd7 14. Re1 Qf6
+15. a3 Bxc3 16. Bxc3 Qd8 17. b3 Be6 18. Bxc6 Rc8 19. Bf3 Rc5 20. Bd4 Rf5 21. Bg4
+Rg5 22. Bxe6 fxe6 23. Rxe6 Rgf5 24. Qg4 Qd7 25. Rxd6 Qf7 26. f3 Rf4 27. Qg3 Qe7
+28. Re1 Qc7 29. Be5 R4f7 30. Rg6 Qc5+ 31. Kh1 hxg6 32. Qxg6 Qf2 33. Rg1 Nd7 34.
+Bd6 Rf6 35. Qd3 R8f7 36. Bg3 Qb2 37. a4 Ne5 38. Qd8+ Rf8 39. Qd5+ Nf7 40. Bh4
+Rd6 41. Qc5 Qe5 42. Qxa7 Re6 43. Bg3 Qh5 44. a5 Re2 45. a6 Ng5 46. Qc5 Nxf3 47.
+Qxh5 Nxg1 48. Kxg1 1-0

@@ -1,0 +1,189 @@
+[Event "Nakhmanson Gambit: Nakhmanson Gambit: Overview"]
+[Site "https://lichess.org/study/VuiAVnCg/S9sWUWu1"]
+[Result "*"]
+[UTCDate "2021.02.19"]
+[UTCTime "05:32:48"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+[Annotator "https://lichess.org/@/TheLegendaryChess17"]
+
+{ The Nakhmanson Gambit is one of the most aggressive lines that white can take in the Italian Game. White looks to give up two pawns and a knight in exchange for rapid development and some deadly attacks on the black king. The opening usually starts with the moves: }
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 { For this overview we will be looking the accepted lines after } 6... dxc3 7. Bxf7+ Kxf7 8. Qd5+ { In this line white has given up two pawns, a knight, and now a bishop all for the thrill of a devastating attack on the black king.
+In this position the black king has to move. We will cover each of the moves for the king. } *
+
+
+[Event "Nakhmanson Gambit: Nakhmanson Gambit: 8...Kg6"]
+[Site "https://lichess.org/study/VuiAVnCg/nWJfhRaJ"]
+[Result "*"]
+[UTCDate "2021.02.19"]
+[UTCTime "05:43:48"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+[Annotator "https://lichess.org/@/TheLegendaryChess17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 dxc3 7. Bxf7+ Kxf7 8. Qd5+ Kg6 { This is not a great move for black. White will continue with } 9. Qxe4+ { White is capturing material and putting the opponent in check. If they retreat back to } 9... Kf7 { they will either lose their queen or lose the game. } *
+
+
+[Event "Nakhmanson Gambit: Nakhmanson Gambit: 8…Ke7"]
+[Site "https://lichess.org/study/VuiAVnCg/GBnBDjNg"]
+[Result "*"]
+[UTCDate "2021.02.19"]
+[UTCTime "06:05:50"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+[Annotator "https://lichess.org/@/TheLegendaryChess17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 dxc3 7. Bxf7+ Kxf7 8. Qd5+ Ke7 { This is another terrible move for black. White can take with } 9. Qxe4+ { followed by } 9... Kf7 10. Ng5+ { 10. Ng5. There are multiple mating threats and no good moves for black. } *
+
+
+[Event "Nakhmanson Gambit: Nakhmanson Gambit: 8…Kf6"]
+[Site "https://lichess.org/study/VuiAVnCg/4OOGFCLW"]
+[Result "*"]
+[UTCDate "2021.02.19"]
+[UTCTime "05:57:18"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+[Annotator "https://lichess.org/@/TheLegendaryChess17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 dxc3 7. Bxf7+ Kxf7 8. Qd5+ Kf6 { The computer says this is the best line for black to continue but it’s difficult to find. It’s rare for black to want to bring their king close to the center of the board so early in the game.
+Now white will play } 9. Re1 { This gets more material involved into the game. If they try to hold onto their e4 Knight the game will be lost. Black needs to let the knight go, but even if they play something like } 9... Bd6 { Bd6 then white can take with } 10. Rxe4 { and white has much more material active with lots of mating threats. } *
+
+
+[Event "Nakhmanson Gambit: Nakhmanson Gambit: 8…Ke8"]
+[Site "https://lichess.org/study/VuiAVnCg/BJMsABgI"]
+[Result "*"]
+[UTCDate "2021.02.19"]
+[UTCTime "06:10:49"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+[Annotator "https://lichess.org/@/TheLegendaryChess17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 dxc3 7. Bxf7+ Kxf7 8. Qd5+ Ke8 { White will look to get the rook involved with } 9. Re1 { This pins the knight to the King and black has to figure out how to hold onto the game. While black is up material for the early part of the game it is very difficult to keep white from overwhelming the black king. } *
+
+
+[Event "Nakhmanson Gambit: Nakhmanson Gambit: 6…Nxc3"]
+[Site "https://lichess.org/study/VuiAVnCg/WyCKEKdl"]
+[Result "*"]
+[UTCDate "2021.02.19"]
+[UTCTime "06:24:22"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+[Annotator "https://lichess.org/@/TheLegendaryChess17"]
+
+{ The most common line for black in the Nakhmanson Gambit is to take with their pawn with 6…dxc3 but here we will look at what happens if they take with their knight 6…Nxc3 }
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 Nxc3 { White needs to continue to get all of powerful material involved into the game. Taking back the knight on c3 is not the best way to do that. The best way to continue is 7. Re1. Now black has some options on how to continue. } *
+
+
+[Event "Nakhmanson Gambit: Nakhmanson Gambit: 7…Ne4"]
+[Site "https://lichess.org/study/VuiAVnCg/KKdjJpeM"]
+[Result "*"]
+[UTCDate "2021.02.19"]
+[UTCTime "06:30:19"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+[Annotator "https://lichess.org/@/TheLegendaryChess17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 Nxc3 7. Re1+ Ne4 { Black could feel their knight is going to fall so they may feel that putting the white rook on the e4 square is a weaker square after } 8. Rxe4+ { This is very good for white, though. After } 8... Be7 { then white plays } 9. Bg5 { and black is out of good moves. There are also multiple traps that white can lay for black. } *
+
+
+[Event "Nakhmanson Gambit: Nakhmanson Gambit: 7…Ne7"]
+[Site "https://lichess.org/study/VuiAVnCg/0MfLU3k9"]
+[Result "*"]
+[UTCDate "2021.02.19"]
+[UTCTime "06:43:02"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+[Annotator "https://lichess.org/@/TheLegendaryChess17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 Nxc3 7. Re1+ Ne7 { In this position white should take the knight on c3 with } 8. bxc3 { The knight on e7 is blocking all of the development for black and white has time to get all of the powerful material involved into the game. If they play } 8... d5 { then white can retreat the bishop back to b3 and continue to attack on the long light square diagonal. } 9. Bb3 *
+
+
+[Event "Nakhmanson Gambit: Nakhmanson Gambit: 7…Be7"]
+[Site "https://lichess.org/study/VuiAVnCg/70Hv6URO"]
+[Result "*"]
+[UTCDate "2021.02.19"]
+[UTCTime "06:48:20"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+[Annotator "https://lichess.org/@/TheLegendaryChess17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 Nxc3 7. Re1+ Be7 { White will continue the same as if the knight went to e7 and that’s by capturing with } 8. bxc3 { bxc3. After } 8... O-O { white will continue by taking material in the center with } (8... d5 9. Bb5 { [%cal Gf3e5] }) 9. cxd4 { From here play might continue with 9…Bb4 10. Bg5 or 9…d5 10. Bd3.
+They also might not castle after white takes with bxc3. If they continue with 8…d5 then white will play Bb5 pinning down the knight to the king and looking to play Ne5 at some point. } 9... Bb4 (9... d5 10. Bd3) 10. Bg5 *
+
+
+[Event "Nakhmanson Gambit: Nakhmanson Gambit: Declined"]
+[Site "https://lichess.org/study/VuiAVnCg/FuA84OZi"]
+[Result "*"]
+[UTCDate "2021.02.19"]
+[UTCTime "06:56:39"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+[Annotator "https://lichess.org/@/TheLegendaryChess17"]
+
+{ Your opponent won’t always accept your gambits. It’s important to understand how to continue your attack if they do decide to decline. There are many declined lines you might see in the Nakhmanson Gambit. }
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 { The main thing that white needs to consider when playing the declined lines of the Nakhmanson Gambit is to stay aggressive. If white trades down and doesn’t continue to attack, black will have the upper hand with little risk of losing the game } *
+
+
+[Event "Nakhmanson Gambit: Nakhmanson Gambit: 6…Nd6"]
+[Site "https://lichess.org/study/VuiAVnCg/ntKbVu6m"]
+[Result "*"]
+[UTCDate "2021.02.19"]
+[UTCTime "06:59:42"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+[Annotator "https://lichess.org/@/TheLegendaryChess17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 Nd6 { This makes sense for black. It keeps the knight that was on e4 safe. It defends the pawn on f7 and keeps the attack going on the c3 square. White now should get the dark square bishop involved into the game with } 7. Bg5 { Black generally will then play } 7... Be7 { and after } 8. Bxe7 { then } 8... Nxe7 { and white has a very aggressive setup. } *
+
+
+[Event "Nakhmanson Gambit: Nakhmanson Gambit: 6…Nf6"]
+[Site "https://lichess.org/study/VuiAVnCg/3iUvdix6"]
+[Result "*"]
+[UTCDate "2021.02.19"]
+[UTCTime "07:03:29"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+[Annotator "https://lichess.org/@/TheLegendaryChess17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 Nf6 { Now white can play } 7. Ng5 { This puts two attacks on the f7 square with both the knight on g5 and the bishop on c4. This is a common way for white to attack the king side for black. If they try to stop the attack with Ne5, that loses to Re1. If black tries to play Nd5, blocking the bishop, then white can play Qf3 with a strong attack. } *
+
+
+[Event "Nakhmanson Gambit: Nakhmanson Gambit: 6…Be7"]
+[Site "https://lichess.org/study/VuiAVnCg/Urlx7vZr"]
+[Result "*"]
+[UTCDate "2021.02.19"]
+[UTCTime "07:07:03"]
+[Variant "Standard"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Nakhmanson Gambit"]
+[Annotator "https://lichess.org/@/TheLegendaryChess17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Nc3 Be7 { Black looks to castle on the king side after 6…Be7 but white should not let that happen. White should play } 7. Bxf7+ { and after } 7... Kxf7 { and white will now look to attack the exposed king the rest of the game. } *
+
+
+[Event "Nakhmanson Gambit: Nakhmanson Gambit: Conclusion"]
+[Site "https://lichess.org/study/VuiAVnCg/ZzL4jfKD"]
+[Result "*"]
+[UTCDate "2021.02.19"]
+[UTCTime "07:16:21"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "King's Pawn"]
+[Annotator "https://lichess.org/@/TheLegendaryChess17"]
+
+{ The Italian Game is one of the most common chess openings. If you like to play aggressive gambits then this is a must use gambit. The Nakhmanson Gambit is a fun opening for anyone that likes to give up material in exchange for an aggressive attack on their opponent. }
+1. e4 { The good news is that even if your opponent declines the Nakhmanson Gambit you still have many aggressive lines that you can take to put your opponent in some very difficult positions. } *
+
+

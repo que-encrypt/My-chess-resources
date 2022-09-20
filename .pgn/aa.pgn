@@ -1,0 +1,22 @@
+[Event "Computer chess game"]
+[Site "DESKTOP-0RDP155"]
+[Date "2022.08.29"]
+[Round "?"]
+[White "viksp"]
+[Black "viksp"]
+[Result "*"]
+[BlackElo "2400"]
+[ECO "E33"]
+[Opening "Nimzo-Indian"]
+[Time "18:40:09"]
+[Variation "Classical, 4...Nc6"]
+[WhiteElo "2400"]
+[TimeControl "5+0"]
+[Termination "unterminated"]
+[PlyCount "25"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. e3 O-O 6. Bd3 e5 7. d5 e4 8.
+Bxe4 Bxc3+ 9. bxc3 Nxe4 10. Qxe4 Re8 11. Qf4 Ne5 12. Qd4 c5 13. dxc6 *
+

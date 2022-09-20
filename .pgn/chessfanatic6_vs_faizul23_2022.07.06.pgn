@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.06"]
+[Round "-"]
+[White "chessfanatic6"]
+[Black "faizul23"]
+[Result "1-0"]
+[CurrentPosition "4r3/1R6/8/1Q1p4/k2r4/5P1P/6PK/8 b - -"]
+[Timezone "UTC"]
+[ECO "C20"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Damiano-Defense-Damiano-Gambit"]
+[UTCDate "2022.07.06"]
+[UTCTime "04:46:47"]
+[WhiteElo "1368"]
+[BlackElo "1378"]
+[TimeControl "600"]
+[Termination "chessfanatic6 won by resignation"]
+[StartTime "04:46:47"]
+[EndDate "2022.07.06"]
+[EndTime "05:00:56"]
+[Link "https://www.chess.com/game/live/50821762603"]
+
+1. e4 e5 2. Nf3 f6 3. Nxe5 g6 4. Nf3 h5 5. d4 d6 6. Nc3 c6 7. Bd3 b5 8. O-O Na6
+9. e5 Bg7 10. Bxg6+ Kf8 11. exf6 Bxf6 12. Re1 Ne7 13. Bd3 Nf5 14. Ne4 Be7 15. c3
+d5 16. Neg5 Bxg5 17. Bxg5 Qd6 18. Bxf5 Bxf5 19. Be7+ Qxe7 20. Rxe7 Kxe7 21. Qe2+
+Kd7 22. Ne5+ Kc7 23. a4 Rab8 24. axb5 Rxb5 25. Rxa6 Kb7 26. Ra3 Re8 27. Qxh5 Rf8
+28. h3 Rxb2 29. c4 Rb1+ 30. Kh2 Rf1 31. cxd5 Be4 32. f3 Bxd5 33. Nd7 Rd8 34.
+Nc5+ Kb6 35. Ra6+ Kb5 36. Qf5 Rd1 37. Rxa7 Rxd4 38. Ne4 Kb6 39. Rd7 Re8 40. Nc3
+Kc5 41. Nxd5 cxd5 42. Qc2+ Kb4 43. Rb7+ Ka5 44. Qc5+ Ka4 45. Qb5+ 1-0

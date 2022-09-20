@@ -1,0 +1,22 @@
+1. e3 e52. Ke2
+
+[Event "Computer chess game"]
+[Site "DESKTOP-0RDP155"]
+[Date "2022.07.05"]
+[Round "?"]
+[White "viksp"]
+[Black "viksp"]
+[Result "*"]
+[BlackElo "2400"]
+[ECO "A00"]
+[Opening "Van Kruij's Opening"]
+[Time "19:43:04"]
+[WhiteElo "2400"]
+[TimeControl "600+5"]
+[Termination "unterminated"]
+[PlyCount "3"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e3 e5 2. Ke2 *
+

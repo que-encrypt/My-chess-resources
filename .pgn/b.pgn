@@ -1,0 +1,49 @@
+[Event "Computer chess game"]
+[Site "DESKTOP-0RDP155"]
+[Date "2021.10.15"]
+[Round "?"]
+[White "viksp"]
+[Black "MortOS"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Time "23:05:44"]
+[Variation "4.d3 Nf6"]
+[WhiteElo "2400"]
+[Termination "normal"]
+[PlyCount "113"]
+[WhiteType "human"]
+[BlackType "program"]
+
+1. e4 e5 {(e7-e5 d2-d4) -0.76/2} 2. Nf3 Nc6 {(Nb8-c6 d2-d4) -0.75/2 0} 3.
+Bc4 Nf6 {(Ng8-f6 O-O) -0.74/2 0} 4. d3 Bc5 {(Bf8-c5 O-O) -0.68/2 0} 5. Ng5
+O-O {(O-O O-O) -0.25/2} 6. O-O d6 {(d7-d6 Nb1-c3) -0.32/2 0} 7. Kh1 Bg4
+{(Bc8-g4 f2-f3) +0.44/2 0} 8. f3 Be6 {(Bg4-e6 Ng5xe6 f7xe6) +0.09/2 0} 9.
+Bxe6 fxe6 {(f7xe6 Ng5xe6) -0.98/2 0} 10. Nxe6 Qd7 {(Qd8-d7 Ne6xf8 Ra8xf8)
+-1.78/2 0} 11. Nxf8 Rxf8 {(Ra8xf8 Nb1-c3) -2.11/2 0} 12. Nc3 Re8 {(Rf8-e8
+Bc1-g5) -2.18/2 0} 13. f4 exf4 {(e5xf4 Bc1xf4) -2.28/2 0} 14. Rxf4 Nd4
+{(Nc6-d4 Bc1-e3) -1.94/2} 15. Be3 Nxc2 {(Nd4xc2 Be3xc5 Nc2xa1) -1.05/2 0}
+16. Qxc2 Bxe3 {(Bc5xe3 Rf4-f5) -0.96/2 0} 17. Rf3 Ng4 {(Nf6-g4 Ra1-d1)
+-0.90/2 0} 18. h3 Nf2+ {-2.77/2 0} 19. Kh2 Bd4 {-2.63/2 0} 20. Rxf2 Bxf2
+{(Bd4xf2 Qc2xf2) -2.60/2 0} 21. Qxf2 c5 {(c7-c5 Kh2-g1) -2.80/2 0} 22. Rf1
+a6 {(a7-a6 Kh2-g1) -2.80/2 0} 23. Nd5 h6 {(h7-h6 Kh2-g1) -2.96/2 0} 24. Qg3
+Qc6 {(Qd7-c6 Qg3-g6) -3.12/2 0} 25. Nf6+ Kh8 {(Kg8-h8 Nf6xe8 Qc6xe8)
+-4.41/2 0} 26. Nxe8 Qxe8 {(Qc6xe8 Qg3xd6) -6.06/2} 27. Qf4 Qe5 {(Qe8-e5
+Kh2-g1) -4.69/2 0} 28. Qxe5 dxe5 {(d6xe5 Rf1-f7) -5.04/2 0} 29. Rf5 Kg8
+{(Kh8-g8 Rf5xe5) -5.56/2 0} 30. Rxe5 b6 {(b7-b6 Re5-e7) -5.91/2} 31. a4 g6
+{(g7-g6 Re5-e7) -5.96/2} 32. b3 h5 {(h6-h5 Re5-e7) -5.98/2 0} 33. h4 a5
+{(a6-a5 Re5-e7) -5.98/2 0} 34. g3 Kh8 {(Kg8-h8 Re5-e7) -6.12/2 0} 35. Kg2
+Kg8 {(Kh8-g8 Re5-e7) -6.10/2 0} 36. Kf3 Kh8 {(Kg8-h8 Kf3-g2) -5.87/2 0} 37.
+Kf4 Kg8 {(Kh8-g8 Kf4-g5) -5.61/2} 38. Kg5 Kg7 {(Kg8-g7 Re5-e7+) -6.25/2 0}
+39. Re7+ Kf8 {(Kg7-f8 Kg5-f6) -6.59/2 0} 40. Rb7 Kg8 {(Kf8-g8 Kg5xg6)
+-7.18/2 0} 41. Rxb6 Kg7 {(Kg8-g7 Rb6xg6+) -8.07/2 0} 42. Rxg6+ Kh8 {(Kg7-h8
+Kg5-f6) -8.22/2 0} 43. Rh6+ Kg8 {(Kh8-g8 Rh6xh5) -8.23/2 0} 44. Rxh5 Kg7
+{(Kg8-g7 Rh5-h6) -8.74/2 0} 45. Kg4 Kg8 {(Kg7-g8 Rh5xc5) -9.38/2 0} 46.
+Rxc5 Kh8 {(Kg8-h8 Rc5xa5) -10.12/2 0} 47. Rxa5 Kg8 {(Kh8-g8 Ra5-a7)
+-10.54/2} 48. Rf5 Kg7 {(Kg8-g7 Rf5-e5) -10.44/2 0} 49. a5 Kg8 {(Kg7-g8
+Rf5-f6) -10.35/2 0} 50. a6 Kh8 {(Kg8-h8 a6-a7) -11.12/2 0} 51. a7 Kg8
+{(Kh8-g8 a7-a8Q+) -18.56/2} 52. a8=Q+ Kg7 {(Kg8-g7 Qa8-e8) -19.46/2 0} 53.
+Qd5 Kh8 {(Kg7-h8 Rf5-f7) -19.45/2} 54. Qe5+ Kg8 {(Kh8-g8 Qe5-e6+) -19.16/2}
+55. Qe8+ Kg7 {(Kg8-g7 Rf5-f7+) -20.12/2} 56. Qf7+ Kh8 {(Kg7-h8 Rf5-f6)
+-19.64/2 0} 57. Rh5# 1-0
+

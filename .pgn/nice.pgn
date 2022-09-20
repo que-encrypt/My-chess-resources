@@ -1,0 +1,29 @@
+[Event "Computer chess game"]
+[Site "DESKTOP-0RDP155"]
+[Date "2021.09.06"]
+[Round "?"]
+[White "viksp"]
+[Black "MortOS"]
+[Result "*"]
+[BlackElo "2200"]
+[ECO "D00"]
+[Opening "Queen's Pawn"]
+[Time "19:08:13"]
+[Variation "Mason Variation"]
+[WhiteElo "2400"]
+[TimeControl "180+2"]
+[Termination "unterminated"]
+[PlyCount "50"]
+[WhiteType "human"]
+[BlackType "program"]
+
+1. d4 d5 {-0.46/9 9} 2. Bf4 Nc6 {-0.70/8 7} 3. Nc3 f6 {-0.38/7 4} 4. Nf3
+Bf5 {-0.82/8 13} 5. e3 g5 {-0.52/7 5} 6. Bg3 Bg7 {-0.51/7 5} 7. Bb5 Nh6
+{-0.44/7 8} 8. O-O O-O {-0.42/7 4} 9. Re1 e6 {-0.34/7 6} 10. Bxc6 bxc6
+{-0.28/8 4} 11. Qd2 Bg6 {+0.04/7 5} 12. e4 dxe4 {+0.21/8 9} 13. Nxe4 g4
+{+0.37/7 5} 14. Nh4 e5 {+0.10/7 5} 15. dxe5 fxe5 {-0.64/8 3} 16. Qxd8 Raxd8
+{+0.28/9 6} 17. Nxg6 hxg6 {+0.12/9 4} 18. Ng5 Rfe8 {+0.20/8 4} 19. f4 exf4
+{+1.16/9 6} 20. Rxe8+ Rxe8 {+1.08/10 3} 21. Bxf4 Bxb2 {+1.28/9 5} 22. Rb1
+Bd4+ {+1.84/9 4} 23. Kf1 Nf5 {+2.38/9 5} 24. Bxc7 Ne3+ {+3.02/8 7} 25. Kf2
+Nf5+ {+3.58/8 5} *
+
