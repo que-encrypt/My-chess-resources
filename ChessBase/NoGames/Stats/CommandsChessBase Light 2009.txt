@@ -1,5 +1,0 @@
-AddKibitzer-CB_Game,1
-EditPasteGame-CB_Game,1
-LoadSelectedGames-DBList,2
-NewBoard-DBExplorer,1
-NewPosition-DBExplorer,2
